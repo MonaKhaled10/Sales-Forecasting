@@ -1,0 +1,1561 @@
+Date,ProductName,Category,UnitPrice,StockQuantity,ReorderLevel,UnitsSold,SalesValue,Month,ReorderQuantity
+2024-03-17,Halawa Tahini,Food,113.94,22,22,63,7178.22,3,67
+2024-03-17,Pasta Regina,Food,12.79,62,48,190,2430.1,3,149
+2024-03-17,Sunbulah Frozen Molokhia,Food,22.61,226,7,8,180.88,3,33
+2024-03-17,Wadi Food Olive Oil,Food,106.24,268,43,7,743.68,3,153
+2024-03-17,Juhayna Milk,Food,25.97,342,49,140,3635.8,3,117
+2024-03-17,Lamar Mango Juice,Beverage,30.51,311,22,2,61.02,3,50
+2024-03-17,Nescafe Gold,Beverage,210.76,184,22,40,8430.4,3,65
+2024-03-17,Lipton Tea Bags,Beverage,117.0,182,11,24,2808.0,3,107
+2024-03-17,Nestlé Pure Life Water,Beverage,6.45,443,27,155,999.75,3,77
+2024-03-17,Coca-Cola Can,Beverage,18.07,383,34,138,2493.66,3,41
+2024-03-17,Corona Chocolate,Snacks,58.92,203,10,142,8366.64,3,85
+2024-03-17,Chipsy Potato Chips,Snacks,22.44,326,28,148,3321.12,3,59
+2024-03-17,Bake Rolz,Snacks,29.09,33,47,59,1716.31,3,84
+2024-03-17,Molto Croissant,Snacks,19.85,447,19,26,516.1,3,107
+2024-03-17,Bisco Misr Biscuit,Snacks,33.34,335,28,42,1400.28,3,104
+2024-03-17,Signal Toothpaste,Personal Care,35.66,353,22,180,6418.8,3,184
+2024-03-17,Dove Shampoo,Personal Care,131.84,321,45,44,5800.96,3,146
+2024-03-17,Nivea Face Wash,Personal Care,214.79,93,34,98,21049.42,3,79
+2024-03-17,Dettol Hand Sanitizer,Personal Care,119.27,337,49,143,17055.61,3,66
+2024-03-17,Fa Deodorant,Personal Care,107.92,441,8,59,6367.28,3,18
+2024-03-17,Samsung Galaxy A15,Electronics,11610.09,215,22,17,197371.53,3,64
+2024-03-17,Anker Power Bank,Electronics,1139.2,300,50,81,92275.2,3,64
+2024-03-17,JBL Bluetooth Speaker,Electronics,2155.44,212,46,118,254341.92,3,46
+2024-03-17,Lenovo Laptop,Electronics,16854.16,136,40,138,2325874.08,3,77
+2024-03-17,Sony Headphones,Electronics,1348.21,229,42,103,138865.63,3,102
+2024-03-17,Ariel Washing Powder,Home Essentials,137.55,80,37,127,17468.85,3,33
+2024-03-17,Persil Liquid Detergent,Home Essentials,225.58,450,12,40,9023.2,3,170
+2024-03-17,Fine Toilet Paper,Home Essentials,87.0,358,32,153,13311.0,3,26
+2024-03-17,Clorox Disinfectant,Home Essentials,76.93,315,34,136,10462.48,3,74
+2024-03-17,Tefal Kettle,Home Essentials,1185.54,450,5,175,207469.5,3,194
+2024-03-24,Halawa Tahini,Food,61.46,463,39,193,11861.78,3,78
+2024-03-24,Pasta Regina,Food,25.37,184,12,76,1928.12,3,121
+2024-03-24,Sunbulah Frozen Molokhia,Food,24.74,11,21,129,3191.46,3,55
+2024-03-24,Wadi Food Olive Oil,Food,140.92,64,45,77,10850.84,3,173
+2024-03-24,Juhayna Milk,Food,35.23,111,14,96,3382.08,3,51
+2024-03-24,Lamar Mango Juice,Beverage,38.48,408,38,1,38.48,3,163
+2024-03-24,Nescafe Gold,Beverage,162.14,19,12,93,15079.02,3,88
+2024-03-24,Lipton Tea Bags,Beverage,66.76,133,41,21,1401.96,3,31
+2024-03-24,Nestlé Pure Life Water,Beverage,15.98,427,9,195,3116.1,3,146
+2024-03-24,Coca-Cola Can,Beverage,17.66,75,47,122,2154.52,3,150
+2024-03-24,Corona Chocolate,Snacks,26.61,280,43,109,2900.49,3,64
+2024-03-24,Chipsy Potato Chips,Snacks,23.93,396,49,52,1244.36,3,192
+2024-03-24,Bake Rolz,Snacks,21.23,353,46,96,2038.08,3,122
+2024-03-24,Molto Croissant,Snacks,19.0,241,12,64,1216.0,3,67
+2024-03-24,Bisco Misr Biscuit,Snacks,26.92,20,42,142,3822.64,3,68
+2024-03-24,Signal Toothpaste,Personal Care,42.65,13,9,182,7762.3,3,171
+2024-03-24,Dove Shampoo,Personal Care,84.71,44,7,85,7200.35,3,28
+2024-03-24,Nivea Face Wash,Personal Care,186.84,152,47,125,23355.0,3,64
+2024-03-24,Dettol Hand Sanitizer,Personal Care,87.75,380,41,148,12987.0,3,131
+2024-03-24,Fa Deodorant,Personal Care,77.01,252,31,49,3773.49,3,34
+2024-03-24,Samsung Galaxy A15,Electronics,10193.86,230,27,109,1111130.74,3,115
+2024-03-24,Anker Power Bank,Electronics,826.92,383,8,173,143057.16,3,177
+2024-03-24,JBL Bluetooth Speaker,Electronics,2484.17,60,8,104,258353.68,3,196
+2024-03-24,Lenovo Laptop,Electronics,17375.12,451,11,64,1112007.68,3,59
+2024-03-24,Sony Headphones,Electronics,1014.13,239,13,109,110540.17,3,56
+2024-03-24,Ariel Washing Powder,Home Essentials,142.28,137,9,114,16219.92,3,150
+2024-03-24,Persil Liquid Detergent,Home Essentials,159.79,343,39,4,639.16,3,33
+2024-03-24,Fine Toilet Paper,Home Essentials,144.48,444,20,43,6212.64,3,114
+2024-03-24,Clorox Disinfectant,Home Essentials,83.99,119,30,16,1343.84,3,52
+2024-03-24,Tefal Kettle,Home Essentials,889.49,209,21,117,104070.33,3,83
+2024-03-31,Halawa Tahini,Food,92.3,500,40,170,15691.0,3,193
+2024-03-31,Pasta Regina,Food,19.73,107,23,56,1104.88,3,24
+2024-03-31,Sunbulah Frozen Molokhia,Food,37.38,287,8,192,7176.96,3,90
+2024-03-31,Wadi Food Olive Oil,Food,86.86,309,35,129,11204.94,3,145
+2024-03-31,Juhayna Milk,Food,24.72,270,10,48,1186.56,3,27
+2024-03-31,Lamar Mango Juice,Beverage,39.88,355,20,104,4147.52,3,40
+2024-03-31,Nescafe Gold,Beverage,242.41,301,20,149,36119.09,3,162
+2024-03-31,Lipton Tea Bags,Beverage,52.78,51,31,169,8919.82,3,159
+2024-03-31,Nestlé Pure Life Water,Beverage,13.48,171,21,53,714.44,3,181
+2024-03-31,Coca-Cola Can,Beverage,17.16,132,21,102,1750.32,3,43
+2024-03-31,Corona Chocolate,Snacks,46.87,163,34,81,3796.47,3,28
+2024-03-31,Chipsy Potato Chips,Snacks,10.14,328,41,26,263.64,3,28
+2024-03-31,Bake Rolz,Snacks,25.75,269,21,34,875.5,3,99
+2024-03-31,Molto Croissant,Snacks,18.81,460,20,95,1786.95,3,82
+2024-03-31,Bisco Misr Biscuit,Snacks,29.73,436,39,181,5381.13,3,87
+2024-03-31,Signal Toothpaste,Personal Care,43.35,423,46,136,5895.6,3,12
+2024-03-31,Dove Shampoo,Personal Care,133.43,293,24,170,22683.1,3,36
+2024-03-31,Nivea Face Wash,Personal Care,242.06,78,21,30,7261.8,3,37
+2024-03-31,Dettol Hand Sanitizer,Personal Care,101.97,89,22,73,7443.81,3,164
+2024-03-31,Fa Deodorant,Personal Care,74.74,185,18,176,13154.24,3,172
+2024-03-31,Samsung Galaxy A15,Electronics,11705.83,268,36,65,760878.95,3,23
+2024-03-31,Anker Power Bank,Electronics,564.61,226,22,12,6775.32,3,10
+2024-03-31,JBL Bluetooth Speaker,Electronics,1833.56,76,45,68,124682.08,3,51
+2024-03-31,Lenovo Laptop,Electronics,20188.62,292,50,110,2220748.2,3,153
+2024-03-31,Sony Headphones,Electronics,905.8,48,49,39,35326.2,3,149
+2024-03-31,Ariel Washing Powder,Home Essentials,122.88,199,42,142,17448.96,3,47
+2024-03-31,Persil Liquid Detergent,Home Essentials,192.98,31,24,94,18140.12,3,20
+2024-03-31,Fine Toilet Paper,Home Essentials,142.42,117,48,64,9114.88,3,180
+2024-03-31,Clorox Disinfectant,Home Essentials,57.2,409,40,105,6006.0,3,168
+2024-03-31,Tefal Kettle,Home Essentials,1074.74,483,20,42,45139.08,3,55
+2024-04-07,Halawa Tahini,Food,138.14,22,16,189,26108.46,4,95
+2024-04-07,Pasta Regina,Food,25.65,220,47,189,4847.85,4,73
+2024-04-07,Sunbulah Frozen Molokhia,Food,28.0,413,49,28,784.0,4,107
+2024-04-07,Wadi Food Olive Oil,Food,184.66,449,35,57,10525.62,4,61
+2024-04-07,Juhayna Milk,Food,44.5,245,27,79,3515.5,4,68
+2024-04-07,Lamar Mango Juice,Beverage,30.57,347,17,103,3148.71,4,94
+2024-04-07,Nescafe Gold,Beverage,156.22,45,22,90,14059.8,4,174
+2024-04-07,Lipton Tea Bags,Beverage,85.66,357,39,85,7281.1,4,17
+2024-04-07,Nestlé Pure Life Water,Beverage,6.73,143,16,149,1002.77,4,77
+2024-04-07,Coca-Cola Can,Beverage,10.38,315,32,89,923.82,4,196
+2024-04-07,Corona Chocolate,Snacks,51.46,233,43,131,6741.26,4,39
+2024-04-07,Chipsy Potato Chips,Snacks,15.78,305,17,66,1041.48,4,21
+2024-04-07,Bake Rolz,Snacks,29.18,10,38,138,4026.84,4,185
+2024-04-07,Molto Croissant,Snacks,17.19,389,47,51,876.69,4,103
+2024-04-07,Bisco Misr Biscuit,Snacks,37.94,495,47,85,3224.9,4,169
+2024-04-07,Signal Toothpaste,Personal Care,34.42,444,12,185,6367.7,4,86
+2024-04-07,Dove Shampoo,Personal Care,120.57,351,31,84,10127.88,4,113
+2024-04-07,Nivea Face Wash,Personal Care,210.64,293,13,50,10532.0,4,117
+2024-04-07,Dettol Hand Sanitizer,Personal Care,96.55,204,48,192,18537.6,4,54
+2024-04-07,Fa Deodorant,Personal Care,103.09,164,30,141,14535.69,4,10
+2024-04-07,Samsung Galaxy A15,Electronics,10607.75,117,32,149,1580554.75,4,165
+2024-04-07,Anker Power Bank,Electronics,958.29,248,33,114,109245.06,4,182
+2024-04-07,JBL Bluetooth Speaker,Electronics,1713.7,252,15,169,289615.3,4,31
+2024-04-07,Lenovo Laptop,Electronics,16986.5,349,45,159,2700853.5,4,95
+2024-04-07,Sony Headphones,Electronics,956.03,497,20,173,165393.19,4,89
+2024-04-07,Ariel Washing Powder,Home Essentials,137.97,111,14,7,965.79,4,21
+2024-04-07,Persil Liquid Detergent,Home Essentials,174.48,253,44,197,34372.56,4,28
+2024-04-07,Fine Toilet Paper,Home Essentials,109.16,463,45,148,16155.68,4,59
+2024-04-07,Clorox Disinfectant,Home Essentials,100.28,206,36,103,10328.84,4,72
+2024-04-07,Tefal Kettle,Home Essentials,773.79,362,5,193,149341.47,4,37
+2024-04-14,Halawa Tahini,Food,127.84,122,16,179,22883.36,4,142
+2024-04-14,Pasta Regina,Food,19.29,295,20,32,617.28,4,126
+2024-04-14,Sunbulah Frozen Molokhia,Food,24.0,247,47,136,3264.0,4,153
+2024-04-14,Wadi Food Olive Oil,Food,151.45,496,33,157,23777.65,4,194
+2024-04-14,Juhayna Milk,Food,46.76,228,40,115,5377.4,4,50
+2024-04-14,Lamar Mango Juice,Beverage,43.59,253,33,67,2920.53,4,73
+2024-04-14,Nescafe Gold,Beverage,229.18,151,38,125,28647.5,4,170
+2024-04-14,Lipton Tea Bags,Beverage,66.75,235,9,183,12215.25,4,83
+2024-04-14,Nestlé Pure Life Water,Beverage,8.52,181,25,139,1184.28,4,30
+2024-04-14,Coca-Cola Can,Beverage,11.38,128,29,178,2025.64,4,49
+2024-04-14,Corona Chocolate,Snacks,48.26,42,31,105,5067.3,4,94
+2024-04-14,Chipsy Potato Chips,Snacks,18.14,222,8,53,961.42,4,117
+2024-04-14,Bake Rolz,Snacks,22.79,404,42,179,4079.41,4,15
+2024-04-14,Molto Croissant,Snacks,18.57,401,41,98,1819.86,4,132
+2024-04-14,Bisco Misr Biscuit,Snacks,25.18,190,24,193,4859.74,4,109
+2024-04-14,Signal Toothpaste,Personal Care,50.6,498,31,138,6982.8,4,198
+2024-04-14,Dove Shampoo,Personal Care,123.69,318,19,125,15461.25,4,66
+2024-04-14,Nivea Face Wash,Personal Care,155.48,258,6,100,15548.0,4,96
+2024-04-14,Dettol Hand Sanitizer,Personal Care,96.82,418,30,186,18008.52,4,52
+2024-04-14,Fa Deodorant,Personal Care,118.84,480,13,160,19014.4,4,146
+2024-04-14,Samsung Galaxy A15,Electronics,10053.93,211,42,145,1457819.85,4,179
+2024-04-14,Anker Power Bank,Electronics,518.97,339,32,35,18163.95,4,128
+2024-04-14,JBL Bluetooth Speaker,Electronics,1681.73,143,29,84,141265.32,4,64
+2024-04-14,Lenovo Laptop,Electronics,18182.9,182,29,72,1309168.8,4,117
+2024-04-14,Sony Headphones,Electronics,1051.36,51,35,5,5256.8,4,148
+2024-04-14,Ariel Washing Powder,Home Essentials,124.17,497,27,58,7201.86,4,176
+2024-04-14,Persil Liquid Detergent,Home Essentials,156.86,500,46,11,1725.46,4,17
+2024-04-14,Fine Toilet Paper,Home Essentials,146.22,112,6,160,23395.2,4,49
+2024-04-14,Clorox Disinfectant,Home Essentials,66.7,252,47,30,2001.0,4,154
+2024-04-14,Tefal Kettle,Home Essentials,1173.88,248,49,66,77476.08,4,104
+2024-04-21,Halawa Tahini,Food,66.78,320,50,30,2003.4,4,51
+2024-04-21,Pasta Regina,Food,29.29,65,42,7,205.03,4,89
+2024-04-21,Sunbulah Frozen Molokhia,Food,37.27,474,29,102,3801.54,4,193
+2024-04-21,Wadi Food Olive Oil,Food,103.8,313,49,161,16711.8,4,72
+2024-04-21,Juhayna Milk,Food,23.06,405,24,176,4058.56,4,163
+2024-04-21,Lamar Mango Juice,Beverage,45.14,417,41,11,496.54,4,98
+2024-04-21,Nescafe Gold,Beverage,189.26,348,28,18,3406.68,4,139
+2024-04-21,Lipton Tea Bags,Beverage,95.33,16,31,126,12011.58,4,37
+2024-04-21,Nestlé Pure Life Water,Beverage,11.5,195,45,118,1357.0,4,191
+2024-04-21,Coca-Cola Can,Beverage,11.53,100,38,167,1925.51,4,79
+2024-04-21,Corona Chocolate,Snacks,44.64,480,39,199,8883.36,4,133
+2024-04-21,Chipsy Potato Chips,Snacks,16.97,432,42,69,1170.93,4,92
+2024-04-21,Bake Rolz,Snacks,32.03,435,10,72,2306.16,4,125
+2024-04-21,Molto Croissant,Snacks,12.44,247,41,157,1953.08,4,181
+2024-04-21,Bisco Misr Biscuit,Snacks,36.37,24,36,84,3055.08,4,56
+2024-04-21,Signal Toothpaste,Personal Care,39.63,191,21,88,3487.44,4,81
+2024-04-21,Dove Shampoo,Personal Care,150.43,369,22,143,21511.49,4,12
+2024-04-21,Nivea Face Wash,Personal Care,187.16,107,10,62,11603.92,4,194
+2024-04-21,Dettol Hand Sanitizer,Personal Care,78.45,294,20,177,13885.65,4,131
+2024-04-21,Fa Deodorant,Personal Care,105.21,261,33,5,526.05,4,33
+2024-04-21,Samsung Galaxy A15,Electronics,10588.47,217,49,63,667073.61,4,88
+2024-04-21,Anker Power Bank,Electronics,964.77,198,35,142,136997.34,4,145
+2024-04-21,JBL Bluetooth Speaker,Electronics,1843.76,391,40,85,156719.6,4,100
+2024-04-21,Lenovo Laptop,Electronics,19919.98,148,24,65,1294798.7,4,69
+2024-04-21,Sony Headphones,Electronics,972.39,108,25,31,30144.09,4,200
+2024-04-21,Ariel Washing Powder,Home Essentials,162.87,400,49,48,7817.76,4,59
+2024-04-21,Persil Liquid Detergent,Home Essentials,171.64,257,22,186,31925.04,4,160
+2024-04-21,Fine Toilet Paper,Home Essentials,148.25,278,43,73,10822.25,4,35
+2024-04-21,Clorox Disinfectant,Home Essentials,108.28,161,19,93,10070.04,4,55
+2024-04-21,Tefal Kettle,Home Essentials,851.13,372,39,33,28087.29,4,80
+2024-04-28,Halawa Tahini,Food,54.55,37,40,75,4091.25,4,188
+2024-04-28,Pasta Regina,Food,28.88,336,36,27,779.76,4,13
+2024-04-28,Sunbulah Frozen Molokhia,Food,37.22,250,35,113,4205.86,4,97
+2024-04-28,Wadi Food Olive Oil,Food,102.12,36,21,123,12560.76,4,39
+2024-04-28,Juhayna Milk,Food,44.66,215,36,19,848.54,4,157
+2024-04-28,Lamar Mango Juice,Beverage,40.74,37,14,39,1588.86,4,154
+2024-04-28,Nescafe Gold,Beverage,243.39,53,20,31,7545.09,4,152
+2024-04-28,Lipton Tea Bags,Beverage,103.51,320,43,159,16458.09,4,67
+2024-04-28,Nestlé Pure Life Water,Beverage,16.64,204,33,114,1896.96,4,86
+2024-04-28,Coca-Cola Can,Beverage,18.6,229,24,146,2715.6,4,168
+2024-04-28,Corona Chocolate,Snacks,22.41,388,11,196,4392.36,4,63
+2024-04-28,Chipsy Potato Chips,Snacks,19.38,145,47,21,406.98,4,50
+2024-04-28,Bake Rolz,Snacks,19.8,292,9,41,811.8,4,10
+2024-04-28,Molto Croissant,Snacks,14.09,362,43,121,1704.89,4,84
+2024-04-28,Bisco Misr Biscuit,Snacks,25.98,157,50,73,1896.54,4,189
+2024-04-28,Signal Toothpaste,Personal Care,50.79,46,48,60,3047.4,4,77
+2024-04-28,Dove Shampoo,Personal Care,143.03,330,42,170,24315.1,4,60
+2024-04-28,Nivea Face Wash,Personal Care,175.27,288,19,166,29094.82,4,48
+2024-04-28,Dettol Hand Sanitizer,Personal Care,113.59,433,14,19,2158.21,4,25
+2024-04-28,Fa Deodorant,Personal Care,71.61,167,43,192,13749.12,4,155
+2024-04-28,Samsung Galaxy A15,Electronics,11842.39,234,12,120,1421086.8,4,186
+2024-04-28,Anker Power Bank,Electronics,712.86,216,22,129,91958.94,4,148
+2024-04-28,JBL Bluetooth Speaker,Electronics,1993.8,51,43,11,21931.8,4,120
+2024-04-28,Lenovo Laptop,Electronics,20141.74,319,21,7,140992.18,4,33
+2024-04-28,Sony Headphones,Electronics,1037.35,355,41,151,156639.85,4,15
+2024-04-28,Ariel Washing Powder,Home Essentials,199.97,354,22,148,29595.56,4,20
+2024-04-28,Persil Liquid Detergent,Home Essentials,226.31,99,35,133,30099.23,4,176
+2024-04-28,Fine Toilet Paper,Home Essentials,108.17,152,16,150,16225.5,4,121
+2024-04-28,Clorox Disinfectant,Home Essentials,94.43,261,10,121,11426.03,4,99
+2024-04-28,Tefal Kettle,Home Essentials,904.17,174,47,27,24412.59,4,51
+2024-05-05,Halawa Tahini,Food,82.98,365,36,74,6140.52,5,179
+2024-05-05,Pasta Regina,Food,28.9,426,40,10,289.0,5,126
+2024-05-05,Sunbulah Frozen Molokhia,Food,22.64,139,25,30,679.2,5,113
+2024-05-05,Wadi Food Olive Oil,Food,183.79,432,5,169,31060.51,5,148
+2024-05-05,Juhayna Milk,Food,33.86,37,17,133,4503.38,5,102
+2024-05-05,Lamar Mango Juice,Beverage,40.57,265,45,114,4624.98,5,23
+2024-05-05,Nescafe Gold,Beverage,146.46,291,13,74,10838.04,5,122
+2024-05-05,Lipton Tea Bags,Beverage,111.66,258,12,8,893.28,5,171
+2024-05-05,Nestlé Pure Life Water,Beverage,14.13,132,50,41,579.33,5,89
+2024-05-05,Coca-Cola Can,Beverage,15.51,292,31,24,372.24,5,67
+2024-05-05,Corona Chocolate,Snacks,59.69,477,12,119,7103.11,5,40
+2024-05-05,Chipsy Potato Chips,Snacks,19.72,88,36,184,3628.48,5,84
+2024-05-05,Bake Rolz,Snacks,25.18,149,31,124,3122.32,5,130
+2024-05-05,Molto Croissant,Snacks,12.44,292,14,99,1231.56,5,58
+2024-05-05,Bisco Misr Biscuit,Snacks,52.66,270,13,18,947.88,5,80
+2024-05-05,Signal Toothpaste,Personal Care,48.18,447,31,88,4239.84,5,139
+2024-05-05,Dove Shampoo,Personal Care,101.37,11,23,186,18854.82,5,86
+2024-05-05,Nivea Face Wash,Personal Care,228.87,306,47,126,28837.62,5,48
+2024-05-05,Dettol Hand Sanitizer,Personal Care,81.26,257,27,86,6988.36,5,151
+2024-05-05,Fa Deodorant,Personal Care,113.4,203,34,83,9412.2,5,58
+2024-05-05,Samsung Galaxy A15,Electronics,11961.55,132,41,99,1184193.45,5,69
+2024-05-05,Anker Power Bank,Electronics,1099.21,220,7,82,90135.22,5,200
+2024-05-05,JBL Bluetooth Speaker,Electronics,1972.98,477,29,99,195325.02,5,179
+2024-05-05,Lenovo Laptop,Electronics,20546.76,343,14,127,2609438.52,5,19
+2024-05-05,Sony Headphones,Electronics,975.75,312,26,26,25369.5,5,122
+2024-05-05,Ariel Washing Powder,Home Essentials,127.98,476,34,4,511.92,5,194
+2024-05-05,Persil Liquid Detergent,Home Essentials,164.42,455,46,40,6576.8,5,29
+2024-05-05,Fine Toilet Paper,Home Essentials,110.21,145,26,160,17633.6,5,187
+2024-05-05,Clorox Disinfectant,Home Essentials,77.82,51,26,173,13462.86,5,146
+2024-05-05,Tefal Kettle,Home Essentials,890.0,172,45,184,163760.0,5,134
+2024-05-12,Halawa Tahini,Food,137.24,28,44,18,2470.32,5,70
+2024-05-12,Pasta Regina,Food,22.62,481,23,59,1334.58,5,33
+2024-05-12,Sunbulah Frozen Molokhia,Food,33.02,60,45,181,5976.62,5,35
+2024-05-12,Wadi Food Olive Oil,Food,133.24,365,24,8,1065.92,5,21
+2024-05-12,Juhayna Milk,Food,29.73,38,23,92,2735.16,5,105
+2024-05-12,Lamar Mango Juice,Beverage,35.77,135,38,106,3791.62,5,154
+2024-05-12,Nescafe Gold,Beverage,208.63,102,15,45,9388.35,5,30
+2024-05-12,Lipton Tea Bags,Beverage,92.66,205,44,175,16215.5,5,71
+2024-05-12,Nestlé Pure Life Water,Beverage,12.47,308,14,60,748.2,5,128
+2024-05-12,Coca-Cola Can,Beverage,16.38,245,21,171,2800.98,5,12
+2024-05-12,Corona Chocolate,Snacks,55.96,248,23,174,9737.04,5,149
+2024-05-12,Chipsy Potato Chips,Snacks,12.37,236,27,151,1867.87,5,86
+2024-05-12,Bake Rolz,Snacks,27.78,227,49,65,1805.7,5,126
+2024-05-12,Molto Croissant,Snacks,18.45,111,29,124,2287.8,5,37
+2024-05-12,Bisco Misr Biscuit,Snacks,32.12,302,27,148,4753.76,5,85
+2024-05-12,Signal Toothpaste,Personal Care,54.78,161,6,169,9257.82,5,111
+2024-05-12,Dove Shampoo,Personal Care,101.96,299,48,200,20392.0,5,200
+2024-05-12,Nivea Face Wash,Personal Care,246.57,476,43,191,47094.87,5,137
+2024-05-12,Dettol Hand Sanitizer,Personal Care,108.3,472,23,199,21551.7,5,68
+2024-05-12,Fa Deodorant,Personal Care,102.49,190,19,163,16705.87,5,58
+2024-05-12,Samsung Galaxy A15,Electronics,11241.78,357,47,175,1967311.5,5,45
+2024-05-12,Anker Power Bank,Electronics,939.77,472,45,166,156001.82,5,20
+2024-05-12,JBL Bluetooth Speaker,Electronics,1808.93,235,7,149,269530.57,5,103
+2024-05-12,Lenovo Laptop,Electronics,20126.52,56,23,84,1690627.68,5,116
+2024-05-12,Sony Headphones,Electronics,1005.38,77,39,94,94505.72,5,145
+2024-05-12,Ariel Washing Powder,Home Essentials,160.14,149,15,66,10569.24,5,133
+2024-05-12,Persil Liquid Detergent,Home Essentials,246.74,161,26,30,7402.2,5,129
+2024-05-12,Fine Toilet Paper,Home Essentials,147.22,82,19,174,25616.28,5,195
+2024-05-12,Clorox Disinfectant,Home Essentials,97.21,213,40,94,9137.74,5,33
+2024-05-12,Tefal Kettle,Home Essentials,1095.34,17,21,138,151156.92,5,41
+2024-05-19,Halawa Tahini,Food,95.48,354,48,68,6492.64,5,159
+2024-05-19,Pasta Regina,Food,17.62,336,28,28,493.36,5,182
+2024-05-19,Sunbulah Frozen Molokhia,Food,27.01,22,44,144,3889.44,5,93
+2024-05-19,Wadi Food Olive Oil,Food,189.83,123,46,17,3227.11,5,172
+2024-05-19,Juhayna Milk,Food,44.72,475,49,78,3488.16,5,176
+2024-05-19,Lamar Mango Juice,Beverage,35.21,81,7,10,352.1,5,87
+2024-05-19,Nescafe Gold,Beverage,249.47,69,11,61,15217.67,5,147
+2024-05-19,Lipton Tea Bags,Beverage,59.5,242,28,172,10234.0,5,200
+2024-05-19,Nestlé Pure Life Water,Beverage,15.45,286,31,151,2332.95,5,200
+2024-05-19,Coca-Cola Can,Beverage,17.27,463,31,168,2901.36,5,35
+2024-05-19,Corona Chocolate,Snacks,53.35,325,31,72,3841.2,5,18
+2024-05-19,Chipsy Potato Chips,Snacks,20.35,121,33,114,2319.9,5,70
+2024-05-19,Bake Rolz,Snacks,32.11,60,48,95,3050.45,5,149
+2024-05-19,Molto Croissant,Snacks,19.02,340,27,16,304.32,5,111
+2024-05-19,Bisco Misr Biscuit,Snacks,33.28,72,34,24,798.72,5,179
+2024-05-19,Signal Toothpaste,Personal Care,31.36,337,43,6,188.16,5,22
+2024-05-19,Dove Shampoo,Personal Care,142.94,134,13,145,20726.3,5,62
+2024-05-19,Nivea Face Wash,Personal Care,128.92,401,40,54,6961.68,5,160
+2024-05-19,Dettol Hand Sanitizer,Personal Care,65.12,455,19,85,5535.2,5,47
+2024-05-19,Fa Deodorant,Personal Care,115.21,315,5,71,8179.91,5,47
+2024-05-19,Samsung Galaxy A15,Electronics,11975.05,286,21,45,538877.25,5,38
+2024-05-19,Anker Power Bank,Electronics,962.74,23,13,4,3850.96,5,101
+2024-05-19,JBL Bluetooth Speaker,Electronics,2289.98,131,42,83,190068.34,5,14
+2024-05-19,Lenovo Laptop,Electronics,16219.72,36,13,190,3081746.8,5,117
+2024-05-19,Sony Headphones,Electronics,1215.65,391,9,122,148309.3,5,124
+2024-05-19,Ariel Washing Powder,Home Essentials,182.24,272,42,28,5102.72,5,125
+2024-05-19,Persil Liquid Detergent,Home Essentials,200.38,494,44,12,2404.56,5,196
+2024-05-19,Fine Toilet Paper,Home Essentials,133.74,453,47,134,17921.16,5,87
+2024-05-19,Clorox Disinfectant,Home Essentials,82.06,25,8,123,10093.38,5,112
+2024-05-19,Tefal Kettle,Home Essentials,913.14,65,36,183,167104.62,5,123
+2024-05-26,Halawa Tahini,Food,57.35,51,25,156,8946.6,5,47
+2024-05-26,Pasta Regina,Food,11.31,150,44,163,1843.53,5,159
+2024-05-26,Sunbulah Frozen Molokhia,Food,36.45,176,29,153,5576.85,5,145
+2024-05-26,Wadi Food Olive Oil,Food,115.39,268,43,111,12808.29,5,35
+2024-05-26,Juhayna Milk,Food,43.79,68,46,167,7312.93,5,151
+2024-05-26,Lamar Mango Juice,Beverage,43.02,120,32,116,4990.32,5,68
+2024-05-26,Nescafe Gold,Beverage,173.8,433,34,103,17901.4,5,116
+2024-05-26,Lipton Tea Bags,Beverage,101.07,170,32,81,8186.67,5,180
+2024-05-26,Nestlé Pure Life Water,Beverage,8.82,498,14,176,1552.32,5,131
+2024-05-26,Coca-Cola Can,Beverage,10.67,435,10,24,256.08,5,120
+2024-05-26,Corona Chocolate,Snacks,23.86,388,28,34,811.24,5,152
+2024-05-26,Chipsy Potato Chips,Snacks,10.9,499,40,144,1569.6,5,94
+2024-05-26,Bake Rolz,Snacks,28.4,220,27,171,4856.4,5,118
+2024-05-26,Molto Croissant,Snacks,18.68,379,8,74,1382.32,5,163
+2024-05-26,Bisco Misr Biscuit,Snacks,34.37,63,41,130,4468.1,5,64
+2024-05-26,Signal Toothpaste,Personal Care,29.64,256,19,28,829.92,5,99
+2024-05-26,Dove Shampoo,Personal Care,147.63,198,12,196,28935.48,5,81
+2024-05-26,Nivea Face Wash,Personal Care,194.63,423,32,144,28026.72,5,169
+2024-05-26,Dettol Hand Sanitizer,Personal Care,92.95,339,40,7,650.65,5,165
+2024-05-26,Fa Deodorant,Personal Care,125.04,434,49,69,8627.76,5,17
+2024-05-26,Samsung Galaxy A15,Electronics,10360.83,369,24,87,901392.21,5,99
+2024-05-26,Anker Power Bank,Electronics,504.27,455,14,145,73119.15,5,178
+2024-05-26,JBL Bluetooth Speaker,Electronics,1900.78,82,45,8,15206.24,5,33
+2024-05-26,Lenovo Laptop,Electronics,20222.78,120,29,108,2184060.24,5,126
+2024-05-26,Sony Headphones,Electronics,1104.54,199,24,185,204339.9,5,93
+2024-05-26,Ariel Washing Powder,Home Essentials,182.15,300,43,22,4007.3,5,23
+2024-05-26,Persil Liquid Detergent,Home Essentials,165.56,396,44,13,2152.28,5,182
+2024-05-26,Fine Toilet Paper,Home Essentials,81.12,236,47,109,8842.08,5,134
+2024-05-26,Clorox Disinfectant,Home Essentials,92.5,222,22,56,5180.0,5,141
+2024-05-26,Tefal Kettle,Home Essentials,756.91,230,12,73,55254.43,5,183
+2024-06-02,Halawa Tahini,Food,117.85,259,38,171,20152.35,6,88
+2024-06-02,Pasta Regina,Food,10.91,212,43,15,163.65,6,11
+2024-06-02,Sunbulah Frozen Molokhia,Food,26.13,494,18,197,5147.61,6,45
+2024-06-02,Wadi Food Olive Oil,Food,171.7,158,25,31,5322.7,6,11
+2024-06-02,Juhayna Milk,Food,34.92,230,16,34,1187.28,6,107
+2024-06-02,Lamar Mango Juice,Beverage,38.31,127,37,144,5516.64,6,181
+2024-06-02,Nescafe Gold,Beverage,224.81,46,30,190,42713.9,6,20
+2024-06-02,Lipton Tea Bags,Beverage,80.54,245,9,81,6523.74,6,157
+2024-06-02,Nestlé Pure Life Water,Beverage,11.44,217,50,164,1876.16,6,116
+2024-06-02,Coca-Cola Can,Beverage,12.9,217,6,84,1083.6,6,53
+2024-06-02,Corona Chocolate,Snacks,52.05,326,34,177,9212.85,6,102
+2024-06-02,Chipsy Potato Chips,Snacks,11.32,442,11,63,713.16,6,121
+2024-06-02,Bake Rolz,Snacks,26.78,278,10,102,2731.56,6,89
+2024-06-02,Molto Croissant,Snacks,17.46,123,26,200,3492.0,6,53
+2024-06-02,Bisco Misr Biscuit,Snacks,27.29,334,12,136,3711.44,6,140
+2024-06-02,Signal Toothpaste,Personal Care,30.82,407,27,90,2773.8,6,196
+2024-06-02,Dove Shampoo,Personal Care,156.66,340,14,61,9556.26,6,36
+2024-06-02,Nivea Face Wash,Personal Care,139.04,111,16,155,21551.2,6,49
+2024-06-02,Dettol Hand Sanitizer,Personal Care,103.22,345,9,46,4748.12,6,170
+2024-06-02,Fa Deodorant,Personal Care,94.59,396,41,195,18445.05,6,158
+2024-06-02,Samsung Galaxy A15,Electronics,10897.81,483,41,165,1798138.65,6,172
+2024-06-02,Anker Power Bank,Electronics,1190.57,175,45,81,96436.17,6,48
+2024-06-02,JBL Bluetooth Speaker,Electronics,1939.76,250,33,162,314241.12,6,87
+2024-06-02,Lenovo Laptop,Electronics,20574.31,312,8,91,1872262.21,6,139
+2024-06-02,Sony Headphones,Electronics,944.51,246,33,10,9445.1,6,24
+2024-06-02,Ariel Washing Powder,Home Essentials,149.5,156,9,166,24817.0,6,33
+2024-06-02,Persil Liquid Detergent,Home Essentials,211.5,269,29,119,25168.5,6,158
+2024-06-02,Fine Toilet Paper,Home Essentials,116.57,415,7,116,13522.12,6,156
+2024-06-02,Clorox Disinfectant,Home Essentials,95.63,174,43,122,11666.86,6,138
+2024-06-02,Tefal Kettle,Home Essentials,775.43,41,33,27,20936.61,6,97
+2024-06-09,Halawa Tahini,Food,148.24,53,37,166,24607.84,6,54
+2024-06-09,Pasta Regina,Food,10.78,372,33,113,1218.14,6,144
+2024-06-09,Sunbulah Frozen Molokhia,Food,35.68,91,28,96,3425.28,6,82
+2024-06-09,Wadi Food Olive Oil,Food,126.49,406,26,174,22009.26,6,163
+2024-06-09,Juhayna Milk,Food,21.57,333,46,86,1855.02,6,26
+2024-06-09,Lamar Mango Juice,Beverage,33.24,295,48,99,3290.76,6,82
+2024-06-09,Nescafe Gold,Beverage,152.76,446,47,155,23677.8,6,48
+2024-06-09,Lipton Tea Bags,Beverage,73.34,308,47,37,2713.58,6,99
+2024-06-09,Nestlé Pure Life Water,Beverage,9.65,345,49,170,1640.5,6,110
+2024-06-09,Coca-Cola Can,Beverage,11.29,372,10,80,903.2,6,153
+2024-06-09,Corona Chocolate,Snacks,35.07,415,26,33,1157.31,6,181
+2024-06-09,Chipsy Potato Chips,Snacks,20.54,494,48,135,2772.9,6,33
+2024-06-09,Bake Rolz,Snacks,27.92,226,37,93,2596.56,6,14
+2024-06-09,Molto Croissant,Snacks,13.63,102,18,88,1199.44,6,134
+2024-06-09,Bisco Misr Biscuit,Snacks,30.76,80,14,20,615.2,6,85
+2024-06-09,Signal Toothpaste,Personal Care,50.33,61,37,198,9965.34,6,148
+2024-06-09,Dove Shampoo,Personal Care,146.81,462,38,10,1468.1,6,179
+2024-06-09,Nivea Face Wash,Personal Care,163.78,402,44,34,5568.52,6,162
+2024-06-09,Dettol Hand Sanitizer,Personal Care,76.37,93,16,178,13593.86,6,169
+2024-06-09,Fa Deodorant,Personal Care,116.63,94,33,12,1399.56,6,115
+2024-06-09,Samsung Galaxy A15,Electronics,10728.6,378,20,114,1223060.4,6,166
+2024-06-09,Anker Power Bank,Electronics,699.45,393,33,60,41967.0,6,146
+2024-06-09,JBL Bluetooth Speaker,Electronics,1739.17,424,35,50,86958.5,6,104
+2024-06-09,Lenovo Laptop,Electronics,19748.15,302,33,119,2350029.85,6,82
+2024-06-09,Sony Headphones,Electronics,1366.87,267,38,108,147621.96,6,51
+2024-06-09,Ariel Washing Powder,Home Essentials,185.35,420,43,36,6672.6,6,74
+2024-06-09,Persil Liquid Detergent,Home Essentials,155.22,256,28,142,22041.24,6,36
+2024-06-09,Fine Toilet Paper,Home Essentials,128.36,274,12,73,9370.28,6,31
+2024-06-09,Clorox Disinfectant,Home Essentials,103.42,149,33,132,13651.44,6,47
+2024-06-09,Tefal Kettle,Home Essentials,1115.52,56,19,116,129400.32,6,99
+2024-06-16,Halawa Tahini,Food,143.05,222,8,102,14591.1,6,138
+2024-06-16,Pasta Regina,Food,17.48,207,10,96,1678.08,6,67
+2024-06-16,Sunbulah Frozen Molokhia,Food,20.85,486,11,183,3815.55,6,176
+2024-06-16,Wadi Food Olive Oil,Food,120.23,84,13,10,1202.3,6,83
+2024-06-16,Juhayna Milk,Food,47.52,251,49,36,1710.72,6,190
+2024-06-16,Lamar Mango Juice,Beverage,36.73,325,5,21,771.33,6,14
+2024-06-16,Nescafe Gold,Beverage,153.27,437,14,141,21611.07,6,196
+2024-06-16,Lipton Tea Bags,Beverage,92.62,226,12,199,18431.38,6,83
+2024-06-16,Nestlé Pure Life Water,Beverage,8.56,72,8,62,530.72,6,117
+2024-06-16,Coca-Cola Can,Beverage,16.39,328,34,17,278.63,6,38
+2024-06-16,Corona Chocolate,Snacks,53.47,265,43,138,7378.86,6,14
+2024-06-16,Chipsy Potato Chips,Snacks,19.48,304,20,184,3584.32,6,46
+2024-06-16,Bake Rolz,Snacks,20.83,10,44,91,1895.53,6,71
+2024-06-16,Molto Croissant,Snacks,15.71,105,47,172,2702.12,6,31
+2024-06-16,Bisco Misr Biscuit,Snacks,40.7,194,9,135,5494.5,6,149
+2024-06-16,Signal Toothpaste,Personal Care,40.22,269,40,6,241.32,6,109
+2024-06-16,Dove Shampoo,Personal Care,149.87,32,45,100,14987.0,6,105
+2024-06-16,Nivea Face Wash,Personal Care,152.97,18,27,18,2753.46,6,98
+2024-06-16,Dettol Hand Sanitizer,Personal Care,66.88,346,45,27,1805.76,6,158
+2024-06-16,Fa Deodorant,Personal Care,111.46,180,13,12,1337.52,6,100
+2024-06-16,Samsung Galaxy A15,Electronics,11092.03,426,46,45,499141.35,6,185
+2024-06-16,Anker Power Bank,Electronics,825.24,366,35,162,133688.88,6,56
+2024-06-16,JBL Bluetooth Speaker,Electronics,2311.5,42,50,199,459988.5,6,127
+2024-06-16,Lenovo Laptop,Electronics,15258.89,113,7,52,793462.28,6,20
+2024-06-16,Sony Headphones,Electronics,1089.36,168,37,102,111114.72,6,149
+2024-06-16,Ariel Washing Powder,Home Essentials,157.87,28,46,49,7735.63,6,83
+2024-06-16,Persil Liquid Detergent,Home Essentials,185.7,409,8,168,31197.6,6,94
+2024-06-16,Fine Toilet Paper,Home Essentials,95.49,419,28,112,10694.88,6,112
+2024-06-16,Clorox Disinfectant,Home Essentials,102.03,468,29,87,8876.61,6,57
+2024-06-16,Tefal Kettle,Home Essentials,948.1,264,28,133,126097.3,6,78
+2024-06-23,Halawa Tahini,Food,130.11,382,32,21,2732.31,6,120
+2024-06-23,Pasta Regina,Food,22.05,431,16,140,3087.0,6,85
+2024-06-23,Sunbulah Frozen Molokhia,Food,29.64,50,25,170,5038.8,6,85
+2024-06-23,Wadi Food Olive Oil,Food,116.78,318,50,110,12845.8,6,52
+2024-06-23,Juhayna Milk,Food,40.69,189,33,11,447.59,6,196
+2024-06-23,Lamar Mango Juice,Beverage,46.75,190,44,112,5236.0,6,80
+2024-06-23,Nescafe Gold,Beverage,203.13,415,8,20,4062.6,6,181
+2024-06-23,Lipton Tea Bags,Beverage,94.63,196,37,192,18168.96,6,183
+2024-06-23,Nestlé Pure Life Water,Beverage,7.4,25,14,156,1154.4,6,183
+2024-06-23,Coca-Cola Can,Beverage,17.81,27,13,18,320.58,6,70
+2024-06-23,Corona Chocolate,Snacks,51.14,197,28,99,5062.86,6,155
+2024-06-23,Chipsy Potato Chips,Snacks,10.49,88,48,116,1216.84,6,104
+2024-06-23,Bake Rolz,Snacks,22.44,400,9,147,3298.68,6,45
+2024-06-23,Molto Croissant,Snacks,15.29,213,25,167,2553.43,6,81
+2024-06-23,Bisco Misr Biscuit,Snacks,32.49,68,6,189,6140.61,6,57
+2024-06-23,Signal Toothpaste,Personal Care,39.97,208,40,31,1239.07,6,77
+2024-06-23,Dove Shampoo,Personal Care,142.0,370,33,55,7810.0,6,166
+2024-06-23,Nivea Face Wash,Personal Care,157.12,479,36,52,8170.24,6,41
+2024-06-23,Dettol Hand Sanitizer,Personal Care,59.5,47,33,45,2677.5,6,192
+2024-06-23,Fa Deodorant,Personal Care,91.16,54,48,82,7475.12,6,180
+2024-06-23,Samsung Galaxy A15,Electronics,10694.85,43,40,139,1486584.15,6,84
+2024-06-23,Anker Power Bank,Electronics,1123.93,445,15,183,205679.19,6,191
+2024-06-23,JBL Bluetooth Speaker,Electronics,2427.32,336,16,93,225740.76,6,140
+2024-06-23,Lenovo Laptop,Electronics,16569.69,112,13,61,1010751.09,6,136
+2024-06-23,Sony Headphones,Electronics,915.77,293,41,95,86998.15,6,129
+2024-06-23,Ariel Washing Powder,Home Essentials,184.29,292,13,157,28933.53,6,32
+2024-06-23,Persil Liquid Detergent,Home Essentials,156.57,213,50,185,28965.45,6,132
+2024-06-23,Fine Toilet Paper,Home Essentials,114.43,403,31,148,16935.64,6,28
+2024-06-23,Clorox Disinfectant,Home Essentials,58.77,172,46,19,1116.63,6,125
+2024-06-23,Tefal Kettle,Home Essentials,932.92,274,27,33,30786.36,6,151
+2024-06-30,Halawa Tahini,Food,113.98,103,13,111,12651.78,6,138
+2024-06-30,Pasta Regina,Food,28.21,38,12,133,3751.93,6,49
+2024-06-30,Sunbulah Frozen Molokhia,Food,29.12,92,25,182,5299.84,6,67
+2024-06-30,Wadi Food Olive Oil,Food,121.52,491,38,73,8870.96,6,30
+2024-06-30,Juhayna Milk,Food,27.52,335,40,71,1953.92,6,42
+2024-06-30,Lamar Mango Juice,Beverage,40.63,324,39,24,975.12,6,138
+2024-06-30,Nescafe Gold,Beverage,203.33,313,42,40,8133.2,6,53
+2024-06-30,Lipton Tea Bags,Beverage,96.11,378,43,87,8361.57,6,154
+2024-06-30,Nestlé Pure Life Water,Beverage,5.62,452,6,21,118.02,6,21
+2024-06-30,Coca-Cola Can,Beverage,19.49,404,41,68,1325.32,6,176
+2024-06-30,Corona Chocolate,Snacks,28.43,302,31,159,4520.37,6,173
+2024-06-30,Chipsy Potato Chips,Snacks,10.45,465,45,140,1463.0,6,84
+2024-06-30,Bake Rolz,Snacks,27.84,164,35,63,1753.92,6,185
+2024-06-30,Molto Croissant,Snacks,14.06,242,9,177,2488.62,6,25
+2024-06-30,Bisco Misr Biscuit,Snacks,29.74,222,35,119,3539.06,6,62
+2024-06-30,Signal Toothpaste,Personal Care,35.21,83,25,184,6478.64,6,91
+2024-06-30,Dove Shampoo,Personal Care,138.74,450,27,103,14290.22,6,43
+2024-06-30,Nivea Face Wash,Personal Care,218.89,273,40,28,6128.92,6,91
+2024-06-30,Dettol Hand Sanitizer,Personal Care,66.92,72,22,116,7762.72,6,73
+2024-06-30,Fa Deodorant,Personal Care,69.86,35,23,99,6916.14,6,167
+2024-06-30,Samsung Galaxy A15,Electronics,10836.27,453,15,84,910246.68,6,157
+2024-06-30,Anker Power Bank,Electronics,1004.79,107,15,128,128613.12,6,141
+2024-06-30,JBL Bluetooth Speaker,Electronics,1966.82,460,24,128,251752.96,6,15
+2024-06-30,Lenovo Laptop,Electronics,15630.34,211,37,118,1844380.12,6,71
+2024-06-30,Sony Headphones,Electronics,1029.09,190,8,13,13378.17,6,82
+2024-06-30,Ariel Washing Powder,Home Essentials,159.59,461,46,173,27609.07,6,130
+2024-06-30,Persil Liquid Detergent,Home Essentials,178.57,14,11,111,19821.27,6,44
+2024-06-30,Fine Toilet Paper,Home Essentials,141.18,382,28,196,27671.28,6,113
+2024-06-30,Clorox Disinfectant,Home Essentials,75.62,215,8,146,11040.52,6,153
+2024-06-30,Tefal Kettle,Home Essentials,797.33,293,23,19,15149.27,6,108
+2024-07-07,Halawa Tahini,Food,100.43,401,40,72,7230.96,7,169
+2024-07-07,Pasta Regina,Food,23.61,70,13,25,590.25,7,110
+2024-07-07,Sunbulah Frozen Molokhia,Food,31.2,183,40,94,2932.8,7,46
+2024-07-07,Wadi Food Olive Oil,Food,103.89,270,30,129,13401.81,7,20
+2024-07-07,Juhayna Milk,Food,21.36,80,50,86,1836.96,7,131
+2024-07-07,Lamar Mango Juice,Beverage,37.98,86,43,132,5013.36,7,45
+2024-07-07,Nescafe Gold,Beverage,162.64,323,25,42,6830.88,7,110
+2024-07-07,Lipton Tea Bags,Beverage,119.34,388,24,152,18139.68,7,96
+2024-07-07,Nestlé Pure Life Water,Beverage,12.61,270,39,126,1588.86,7,191
+2024-07-07,Coca-Cola Can,Beverage,15.63,253,6,95,1484.85,7,94
+2024-07-07,Corona Chocolate,Snacks,46.95,223,42,79,3709.05,7,195
+2024-07-07,Chipsy Potato Chips,Snacks,23.08,332,6,153,3531.24,7,131
+2024-07-07,Bake Rolz,Snacks,20.31,345,42,148,3005.88,7,68
+2024-07-07,Molto Croissant,Snacks,17.21,308,35,44,757.24,7,144
+2024-07-07,Bisco Misr Biscuit,Snacks,43.87,327,29,38,1667.06,7,184
+2024-07-07,Signal Toothpaste,Personal Care,32.27,303,49,29,935.83,7,58
+2024-07-07,Dove Shampoo,Personal Care,81.51,170,31,39,3178.89,7,115
+2024-07-07,Nivea Face Wash,Personal Care,209.77,220,37,199,41744.23,7,166
+2024-07-07,Dettol Hand Sanitizer,Personal Care,114.44,456,8,181,20713.64,7,45
+2024-07-07,Fa Deodorant,Personal Care,96.31,297,25,170,16372.7,7,132
+2024-07-07,Samsung Galaxy A15,Electronics,11050.95,170,16,118,1304012.1,7,146
+2024-07-07,Anker Power Bank,Electronics,739.63,191,48,198,146446.74,7,194
+2024-07-07,JBL Bluetooth Speaker,Electronics,2180.75,421,49,68,148291.0,7,166
+2024-07-07,Lenovo Laptop,Electronics,18389.26,500,20,72,1324026.72,7,152
+2024-07-07,Sony Headphones,Electronics,1079.1,492,24,198,213661.8,7,83
+2024-07-07,Ariel Washing Powder,Home Essentials,176.39,363,50,126,22225.14,7,91
+2024-07-07,Persil Liquid Detergent,Home Essentials,197.98,296,22,74,14650.52,7,41
+2024-07-07,Fine Toilet Paper,Home Essentials,118.01,288,29,102,12037.02,7,98
+2024-07-07,Clorox Disinfectant,Home Essentials,116.82,421,14,75,8761.5,7,20
+2024-07-07,Tefal Kettle,Home Essentials,843.82,375,10,89,75099.98,7,123
+2024-07-14,Halawa Tahini,Food,115.6,392,35,55,6358.0,7,61
+2024-07-14,Pasta Regina,Food,26.56,148,40,179,4754.24,7,79
+2024-07-14,Sunbulah Frozen Molokhia,Food,24.12,325,42,62,1495.44,7,72
+2024-07-14,Wadi Food Olive Oil,Food,86.09,473,38,58,4993.22,7,173
+2024-07-14,Juhayna Milk,Food,26.99,61,31,85,2294.15,7,193
+2024-07-14,Lamar Mango Juice,Beverage,36.81,358,13,2,73.62,7,150
+2024-07-14,Nescafe Gold,Beverage,247.13,90,31,168,41517.84,7,131
+2024-07-14,Lipton Tea Bags,Beverage,83.42,112,23,83,6923.86,7,83
+2024-07-14,Nestlé Pure Life Water,Beverage,14.69,474,10,167,2453.23,7,156
+2024-07-14,Coca-Cola Can,Beverage,12.32,388,7,45,554.4,7,116
+2024-07-14,Corona Chocolate,Snacks,55.29,100,7,102,5639.58,7,136
+2024-07-14,Chipsy Potato Chips,Snacks,12.79,393,23,10,127.9,7,12
+2024-07-14,Bake Rolz,Snacks,20.97,318,11,86,1803.42,7,82
+2024-07-14,Molto Croissant,Snacks,14.54,338,39,135,1962.9,7,136
+2024-07-14,Bisco Misr Biscuit,Snacks,51.68,78,37,120,6201.6,7,79
+2024-07-14,Signal Toothpaste,Personal Care,30.78,67,26,42,1292.76,7,197
+2024-07-14,Dove Shampoo,Personal Care,116.71,141,50,48,5602.08,7,13
+2024-07-14,Nivea Face Wash,Personal Care,215.76,414,23,146,31500.96,7,182
+2024-07-14,Dettol Hand Sanitizer,Personal Care,103.01,99,44,164,16893.64,7,113
+2024-07-14,Fa Deodorant,Personal Care,117.89,273,25,23,2711.47,7,112
+2024-07-14,Samsung Galaxy A15,Electronics,11338.51,104,13,123,1394636.73,7,92
+2024-07-14,Anker Power Bank,Electronics,1155.08,13,21,99,114352.92,7,70
+2024-07-14,JBL Bluetooth Speaker,Electronics,1946.74,146,26,78,151845.72,7,159
+2024-07-14,Lenovo Laptop,Electronics,20060.18,15,21,168,3370110.24,7,102
+2024-07-14,Sony Headphones,Electronics,1315.66,41,47,31,40785.46,7,129
+2024-07-14,Ariel Washing Powder,Home Essentials,144.54,217,48,129,18645.66,7,190
+2024-07-14,Persil Liquid Detergent,Home Essentials,226.98,363,12,164,37224.72,7,85
+2024-07-14,Fine Toilet Paper,Home Essentials,102.57,123,19,35,3589.95,7,132
+2024-07-14,Clorox Disinfectant,Home Essentials,60.72,392,43,96,5829.12,7,116
+2024-07-14,Tefal Kettle,Home Essentials,1050.97,477,35,194,203888.18,7,147
+2024-07-21,Halawa Tahini,Food,130.2,432,18,196,25519.2,7,73
+2024-07-21,Pasta Regina,Food,23.61,315,10,135,3187.35,7,124
+2024-07-21,Sunbulah Frozen Molokhia,Food,35.85,195,9,145,5198.25,7,38
+2024-07-21,Wadi Food Olive Oil,Food,87.41,290,37,52,4545.32,7,156
+2024-07-21,Juhayna Milk,Food,36.1,94,25,134,4837.4,7,123
+2024-07-21,Lamar Mango Juice,Beverage,27.91,115,50,150,4186.5,7,135
+2024-07-21,Nescafe Gold,Beverage,131.82,271,33,15,1977.3,7,126
+2024-07-21,Lipton Tea Bags,Beverage,59.24,222,34,145,8589.8,7,24
+2024-07-21,Nestlé Pure Life Water,Beverage,13.38,354,24,186,2488.68,7,15
+2024-07-21,Coca-Cola Can,Beverage,13.96,428,5,191,2666.36,7,65
+2024-07-21,Corona Chocolate,Snacks,43.13,33,32,89,3838.57,7,189
+2024-07-21,Chipsy Potato Chips,Snacks,10.96,40,9,121,1326.16,7,18
+2024-07-21,Bake Rolz,Snacks,20.74,102,13,197,4085.78,7,174
+2024-07-21,Molto Croissant,Snacks,19.78,340,31,96,1898.88,7,107
+2024-07-21,Bisco Misr Biscuit,Snacks,38.46,479,29,97,3730.62,7,30
+2024-07-21,Signal Toothpaste,Personal Care,45.48,348,39,35,1591.8,7,177
+2024-07-21,Dove Shampoo,Personal Care,148.82,70,16,138,20537.16,7,110
+2024-07-21,Nivea Face Wash,Personal Care,188.75,382,19,1,188.75,7,15
+2024-07-21,Dettol Hand Sanitizer,Personal Care,118.49,247,48,185,21920.65,7,149
+2024-07-21,Fa Deodorant,Personal Care,89.69,204,19,64,5740.16,7,127
+2024-07-21,Samsung Galaxy A15,Electronics,10692.32,151,17,186,1988771.52,7,38
+2024-07-21,Anker Power Bank,Electronics,522.55,348,31,158,82562.9,7,14
+2024-07-21,JBL Bluetooth Speaker,Electronics,1740.67,44,11,153,266322.51,7,18
+2024-07-21,Lenovo Laptop,Electronics,18125.09,354,50,13,235626.17,7,72
+2024-07-21,Sony Headphones,Electronics,1344.32,215,33,60,80659.2,7,148
+2024-07-21,Ariel Washing Powder,Home Essentials,137.38,452,8,36,4945.68,7,138
+2024-07-21,Persil Liquid Detergent,Home Essentials,249.35,129,41,82,20446.7,7,157
+2024-07-21,Fine Toilet Paper,Home Essentials,119.84,354,25,61,7310.24,7,87
+2024-07-21,Clorox Disinfectant,Home Essentials,111.34,348,38,57,6346.38,7,115
+2024-07-21,Tefal Kettle,Home Essentials,850.25,41,40,152,129238.0,7,198
+2024-07-28,Halawa Tahini,Food,141.16,330,48,110,15527.6,7,152
+2024-07-28,Pasta Regina,Food,19.91,186,46,172,3424.52,7,107
+2024-07-28,Sunbulah Frozen Molokhia,Food,43.57,173,49,107,4661.99,7,114
+2024-07-28,Wadi Food Olive Oil,Food,97.91,202,16,194,18994.54,7,147
+2024-07-28,Juhayna Milk,Food,34.21,444,19,77,2634.17,7,191
+2024-07-28,Lamar Mango Juice,Beverage,28.61,247,8,144,4119.84,7,115
+2024-07-28,Nescafe Gold,Beverage,245.81,295,38,35,8603.35,7,109
+2024-07-28,Lipton Tea Bags,Beverage,67.0,114,26,166,11122.0,7,30
+2024-07-28,Nestlé Pure Life Water,Beverage,18.83,443,28,24,451.92,7,147
+2024-07-28,Coca-Cola Can,Beverage,17.25,107,8,69,1190.25,7,106
+2024-07-28,Corona Chocolate,Snacks,46.95,318,7,19,892.05,7,58
+2024-07-28,Chipsy Potato Chips,Snacks,22.07,310,47,144,3178.08,7,65
+2024-07-28,Bake Rolz,Snacks,24.59,455,26,78,1918.02,7,13
+2024-07-28,Molto Croissant,Snacks,12.12,107,12,192,2327.04,7,132
+2024-07-28,Bisco Misr Biscuit,Snacks,52.43,366,43,181,9489.83,7,62
+2024-07-28,Signal Toothpaste,Personal Care,36.9,132,40,83,3062.7,7,82
+2024-07-28,Dove Shampoo,Personal Care,110.45,283,46,92,10161.4,7,88
+2024-07-28,Nivea Face Wash,Personal Care,154.0,272,36,120,18480.0,7,35
+2024-07-28,Dettol Hand Sanitizer,Personal Care,106.2,379,35,195,20709.0,7,91
+2024-07-28,Fa Deodorant,Personal Care,124.0,199,25,106,13144.0,7,21
+2024-07-28,Samsung Galaxy A15,Electronics,11125.05,123,14,5,55625.25,7,76
+2024-07-28,Anker Power Bank,Electronics,887.32,309,42,185,164154.2,7,116
+2024-07-28,JBL Bluetooth Speaker,Electronics,1795.19,110,26,59,105916.21,7,107
+2024-07-28,Lenovo Laptop,Electronics,18988.53,135,36,141,2677382.73,7,177
+2024-07-28,Sony Headphones,Electronics,1466.08,182,21,196,287351.68,7,135
+2024-07-28,Ariel Washing Powder,Home Essentials,197.32,338,36,118,23283.76,7,53
+2024-07-28,Persil Liquid Detergent,Home Essentials,223.28,190,15,36,8038.08,7,194
+2024-07-28,Fine Toilet Paper,Home Essentials,115.99,104,39,165,19138.35,7,25
+2024-07-28,Clorox Disinfectant,Home Essentials,86.68,439,9,172,14908.96,7,22
+2024-07-28,Tefal Kettle,Home Essentials,1082.17,221,13,162,175311.54,7,69
+2024-08-04,Halawa Tahini,Food,56.8,87,5,56,3180.8,8,139
+2024-08-04,Pasta Regina,Food,19.12,40,44,164,3135.68,8,180
+2024-08-04,Sunbulah Frozen Molokhia,Food,48.02,477,35,169,8115.38,8,134
+2024-08-04,Wadi Food Olive Oil,Food,81.89,282,40,106,8680.34,8,13
+2024-08-04,Juhayna Milk,Food,20.5,379,22,138,2829.0,8,83
+2024-08-04,Lamar Mango Juice,Beverage,25.43,426,49,173,4399.39,8,120
+2024-08-04,Nescafe Gold,Beverage,224.8,475,16,28,6294.4,8,34
+2024-08-04,Lipton Tea Bags,Beverage,86.71,133,17,159,13786.89,8,144
+2024-08-04,Nestlé Pure Life Water,Beverage,8.79,191,22,102,896.58,8,30
+2024-08-04,Coca-Cola Can,Beverage,13.73,217,34,145,1990.85,8,72
+2024-08-04,Corona Chocolate,Snacks,59.61,125,24,176,10491.36,8,30
+2024-08-04,Chipsy Potato Chips,Snacks,19.81,449,46,195,3862.95,8,18
+2024-08-04,Bake Rolz,Snacks,16.87,204,29,142,2395.54,8,131
+2024-08-04,Molto Croissant,Snacks,10.56,14,49,44,464.64,8,31
+2024-08-04,Bisco Misr Biscuit,Snacks,40.0,232,46,85,3400.0,8,154
+2024-08-04,Signal Toothpaste,Personal Care,54.32,58,38,11,597.52,8,68
+2024-08-04,Dove Shampoo,Personal Care,96.91,454,49,146,14148.86,8,131
+2024-08-04,Nivea Face Wash,Personal Care,155.24,483,9,176,27322.24,8,81
+2024-08-04,Dettol Hand Sanitizer,Personal Care,112.95,298,47,9,1016.55,8,55
+2024-08-04,Fa Deodorant,Personal Care,125.01,171,6,54,6750.54,8,160
+2024-08-04,Samsung Galaxy A15,Electronics,10288.38,430,50,102,1049414.76,8,29
+2024-08-04,Anker Power Bank,Electronics,709.49,298,20,146,103585.54,8,109
+2024-08-04,JBL Bluetooth Speaker,Electronics,2177.03,286,26,99,215525.97,8,199
+2024-08-04,Lenovo Laptop,Electronics,15979.65,362,10,129,2061374.85,8,200
+2024-08-04,Sony Headphones,Electronics,1484.59,37,11,112,166274.08,8,69
+2024-08-04,Ariel Washing Powder,Home Essentials,187.09,184,43,197,36856.73,8,167
+2024-08-04,Persil Liquid Detergent,Home Essentials,245.49,213,25,8,1963.92,8,172
+2024-08-04,Fine Toilet Paper,Home Essentials,95.5,240,36,59,5634.5,8,101
+2024-08-04,Clorox Disinfectant,Home Essentials,88.71,202,32,48,4258.08,8,184
+2024-08-04,Tefal Kettle,Home Essentials,992.94,204,10,198,196602.12,8,168
+2024-08-11,Halawa Tahini,Food,79.54,136,50,19,1511.26,8,31
+2024-08-11,Pasta Regina,Food,15.36,204,50,163,2503.68,8,49
+2024-08-11,Sunbulah Frozen Molokhia,Food,42.19,172,28,28,1181.32,8,33
+2024-08-11,Wadi Food Olive Oil,Food,80.62,167,33,93,7497.66,8,79
+2024-08-11,Juhayna Milk,Food,23.07,54,16,111,2560.77,8,124
+2024-08-11,Lamar Mango Juice,Beverage,38.92,272,31,27,1050.84,8,16
+2024-08-11,Nescafe Gold,Beverage,131.65,293,10,153,20142.45,8,163
+2024-08-11,Lipton Tea Bags,Beverage,104.91,452,29,4,419.64,8,84
+2024-08-11,Nestlé Pure Life Water,Beverage,11.21,408,10,186,2085.06,8,153
+2024-08-11,Coca-Cola Can,Beverage,19.05,134,41,134,2552.7,8,53
+2024-08-11,Corona Chocolate,Snacks,47.41,96,13,69,3271.29,8,87
+2024-08-11,Chipsy Potato Chips,Snacks,14.03,84,9,43,603.29,8,121
+2024-08-11,Bake Rolz,Snacks,20.52,163,35,20,410.4,8,102
+2024-08-11,Molto Croissant,Snacks,12.52,136,45,127,1590.04,8,162
+2024-08-11,Bisco Misr Biscuit,Snacks,43.5,244,11,35,1522.5,8,87
+2024-08-11,Signal Toothpaste,Personal Care,25.2,212,26,159,4006.8,8,107
+2024-08-11,Dove Shampoo,Personal Care,144.33,178,33,86,12412.38,8,120
+2024-08-11,Nivea Face Wash,Personal Care,226.01,450,46,153,34579.53,8,44
+2024-08-11,Dettol Hand Sanitizer,Personal Care,71.03,318,49,52,3693.56,8,132
+2024-08-11,Fa Deodorant,Personal Care,81.99,213,25,75,6149.25,8,198
+2024-08-11,Samsung Galaxy A15,Electronics,11389.92,261,41,63,717564.96,8,93
+2024-08-11,Anker Power Bank,Electronics,763.24,428,30,94,71744.56,8,39
+2024-08-11,JBL Bluetooth Speaker,Electronics,2432.07,112,42,140,340489.8,8,56
+2024-08-11,Lenovo Laptop,Electronics,19771.99,291,6,187,3697362.13,8,128
+2024-08-11,Sony Headphones,Electronics,1465.78,117,33,75,109933.5,8,187
+2024-08-11,Ariel Washing Powder,Home Essentials,125.53,444,31,173,21716.69,8,137
+2024-08-11,Persil Liquid Detergent,Home Essentials,163.92,165,20,65,10654.8,8,178
+2024-08-11,Fine Toilet Paper,Home Essentials,86.56,226,29,19,1644.64,8,124
+2024-08-11,Clorox Disinfectant,Home Essentials,119.35,255,42,103,12293.05,8,146
+2024-08-11,Tefal Kettle,Home Essentials,953.31,481,49,108,102957.48,8,149
+2024-08-18,Halawa Tahini,Food,53.68,194,49,138,7407.84,8,162
+2024-08-18,Pasta Regina,Food,22.76,53,11,197,4483.72,8,73
+2024-08-18,Sunbulah Frozen Molokhia,Food,39.73,191,15,166,6595.18,8,166
+2024-08-18,Wadi Food Olive Oil,Food,85.32,340,48,166,14163.12,8,112
+2024-08-18,Juhayna Milk,Food,49.0,179,32,28,1372.0,8,12
+2024-08-18,Lamar Mango Juice,Beverage,27.47,123,37,192,5274.24,8,142
+2024-08-18,Nescafe Gold,Beverage,192.54,362,41,57,10974.78,8,124
+2024-08-18,Lipton Tea Bags,Beverage,76.19,247,48,151,11504.69,8,186
+2024-08-18,Nestlé Pure Life Water,Beverage,12.51,186,6,124,1551.24,8,36
+2024-08-18,Coca-Cola Can,Beverage,12.95,481,10,30,388.5,8,196
+2024-08-18,Corona Chocolate,Snacks,25.67,169,26,117,3003.39,8,62
+2024-08-18,Chipsy Potato Chips,Snacks,17.82,188,35,25,445.5,8,122
+2024-08-18,Bake Rolz,Snacks,29.44,241,25,18,529.92,8,86
+2024-08-18,Molto Croissant,Snacks,10.45,373,12,6,62.7,8,97
+2024-08-18,Bisco Misr Biscuit,Snacks,44.44,356,15,190,8443.6,8,72
+2024-08-18,Signal Toothpaste,Personal Care,40.48,292,15,85,3440.8,8,153
+2024-08-18,Dove Shampoo,Personal Care,114.11,246,19,104,11867.44,8,171
+2024-08-18,Nivea Face Wash,Personal Care,143.98,337,47,111,15981.78,8,111
+2024-08-18,Dettol Hand Sanitizer,Personal Care,52.04,324,17,116,6036.64,8,161
+2024-08-18,Fa Deodorant,Personal Care,90.07,12,50,55,4953.85,8,62
+2024-08-18,Samsung Galaxy A15,Electronics,10556.69,370,9,148,1562390.12,8,36
+2024-08-18,Anker Power Bank,Electronics,1059.65,284,16,94,99607.1,8,93
+2024-08-18,JBL Bluetooth Speaker,Electronics,1697.07,68,21,172,291896.04,8,135
+2024-08-18,Lenovo Laptop,Electronics,18694.01,337,25,153,2860183.53,8,109
+2024-08-18,Sony Headphones,Electronics,1266.79,310,12,90,114011.1,8,100
+2024-08-18,Ariel Washing Powder,Home Essentials,187.64,326,16,173,32461.72,8,190
+2024-08-18,Persil Liquid Detergent,Home Essentials,230.06,480,44,152,34969.12,8,31
+2024-08-18,Fine Toilet Paper,Home Essentials,125.41,170,12,62,7775.42,8,88
+2024-08-18,Clorox Disinfectant,Home Essentials,58.19,201,49,37,2153.03,8,140
+2024-08-18,Tefal Kettle,Home Essentials,894.23,315,13,148,132346.04,8,108
+2024-08-25,Halawa Tahini,Food,92.3,259,45,138,12737.4,8,187
+2024-08-25,Pasta Regina,Food,28.38,486,16,143,4058.34,8,52
+2024-08-25,Sunbulah Frozen Molokhia,Food,34.69,81,16,81,2809.89,8,125
+2024-08-25,Wadi Food Olive Oil,Food,154.33,453,27,3,462.99,8,134
+2024-08-25,Juhayna Milk,Food,24.1,427,29,144,3470.4,8,139
+2024-08-25,Lamar Mango Juice,Beverage,41.33,219,48,126,5207.58,8,116
+2024-08-25,Nescafe Gold,Beverage,212.32,237,36,43,9129.76,8,31
+2024-08-25,Lipton Tea Bags,Beverage,89.58,417,19,75,6718.5,8,18
+2024-08-25,Nestlé Pure Life Water,Beverage,9.12,285,23,44,401.28,8,127
+2024-08-25,Coca-Cola Can,Beverage,15.66,405,36,141,2208.06,8,140
+2024-08-25,Corona Chocolate,Snacks,24.53,68,22,199,4881.47,8,149
+2024-08-25,Chipsy Potato Chips,Snacks,22.35,197,39,194,4335.9,8,20
+2024-08-25,Bake Rolz,Snacks,30.2,235,39,56,1691.2,8,118
+2024-08-25,Molto Croissant,Snacks,11.02,434,46,193,2126.86,8,73
+2024-08-25,Bisco Misr Biscuit,Snacks,33.93,26,33,68,2307.24,8,99
+2024-08-25,Signal Toothpaste,Personal Care,50.87,54,33,31,1576.97,8,70
+2024-08-25,Dove Shampoo,Personal Care,96.79,387,42,177,17131.83,8,99
+2024-08-25,Nivea Face Wash,Personal Care,231.94,322,45,110,25513.4,8,52
+2024-08-25,Dettol Hand Sanitizer,Personal Care,93.13,411,18,53,4935.89,8,25
+2024-08-25,Fa Deodorant,Personal Care,99.91,282,22,153,15286.23,8,147
+2024-08-25,Samsung Galaxy A15,Electronics,10336.75,370,23,75,775256.25,8,156
+2024-08-25,Anker Power Bank,Electronics,687.14,449,37,174,119562.36,8,34
+2024-08-25,JBL Bluetooth Speaker,Electronics,1635.59,394,31,16,26169.44,8,80
+2024-08-25,Lenovo Laptop,Electronics,21069.33,74,49,34,716357.22,8,73
+2024-08-25,Sony Headphones,Electronics,987.75,174,20,195,192611.25,8,183
+2024-08-25,Ariel Washing Powder,Home Essentials,151.42,82,41,162,24530.04,8,78
+2024-08-25,Persil Liquid Detergent,Home Essentials,212.78,202,33,20,4255.6,8,172
+2024-08-25,Fine Toilet Paper,Home Essentials,134.59,403,10,104,13997.36,8,141
+2024-08-25,Clorox Disinfectant,Home Essentials,102.49,365,28,117,11991.33,8,134
+2024-08-25,Tefal Kettle,Home Essentials,863.64,11,10,188,162364.32,8,127
+2024-09-01,Halawa Tahini,Food,113.48,367,27,17,1929.16,9,146
+2024-09-01,Pasta Regina,Food,17.95,229,18,127,2279.65,9,78
+2024-09-01,Sunbulah Frozen Molokhia,Food,29.69,155,26,141,4186.29,9,157
+2024-09-01,Wadi Food Olive Oil,Food,95.67,446,36,88,8418.96,9,184
+2024-09-01,Juhayna Milk,Food,42.87,33,11,161,6902.07,9,127
+2024-09-01,Lamar Mango Juice,Beverage,25.41,485,15,113,2871.33,9,126
+2024-09-01,Nescafe Gold,Beverage,120.09,500,32,52,6244.68,9,186
+2024-09-01,Lipton Tea Bags,Beverage,113.66,461,46,78,8865.48,9,50
+2024-09-01,Nestlé Pure Life Water,Beverage,18.12,458,22,24,434.88,9,177
+2024-09-01,Coca-Cola Can,Beverage,13.6,52,28,171,2325.6,9,176
+2024-09-01,Corona Chocolate,Snacks,26.62,212,45,79,2102.98,9,195
+2024-09-01,Chipsy Potato Chips,Snacks,20.49,129,32,168,3442.32,9,33
+2024-09-01,Bake Rolz,Snacks,29.07,10,18,123,3575.61,9,29
+2024-09-01,Molto Croissant,Snacks,11.33,125,38,175,1982.75,9,123
+2024-09-01,Bisco Misr Biscuit,Snacks,25.28,366,26,31,783.68,9,118
+2024-09-01,Signal Toothpaste,Personal Care,45.82,254,9,59,2703.38,9,108
+2024-09-01,Dove Shampoo,Personal Care,87.15,422,11,27,2353.05,9,90
+2024-09-01,Nivea Face Wash,Personal Care,167.78,163,13,98,16442.44,9,44
+2024-09-01,Dettol Hand Sanitizer,Personal Care,94.91,356,14,18,1708.38,9,145
+2024-09-01,Fa Deodorant,Personal Care,99.43,322,46,43,4275.49,9,122
+2024-09-01,Samsung Galaxy A15,Electronics,10702.38,119,45,192,2054856.96,9,48
+2024-09-01,Anker Power Bank,Electronics,1143.93,325,48,114,130408.02,9,65
+2024-09-01,JBL Bluetooth Speaker,Electronics,1586.69,61,13,193,306231.17,9,41
+2024-09-01,Lenovo Laptop,Electronics,19127.02,206,27,110,2103972.2,9,90
+2024-09-01,Sony Headphones,Electronics,1374.65,136,22,166,228191.9,9,31
+2024-09-01,Ariel Washing Powder,Home Essentials,139.85,317,43,185,25872.25,9,165
+2024-09-01,Persil Liquid Detergent,Home Essentials,178.49,491,49,7,1249.43,9,178
+2024-09-01,Fine Toilet Paper,Home Essentials,140.69,115,38,156,21947.64,9,140
+2024-09-01,Clorox Disinfectant,Home Essentials,63.21,210,23,166,10492.86,9,23
+2024-09-01,Tefal Kettle,Home Essentials,1091.9,416,20,127,138671.3,9,108
+2024-09-08,Halawa Tahini,Food,61.27,265,45,153,9374.31,9,28
+2024-09-08,Pasta Regina,Food,20.57,16,28,82,1686.74,9,43
+2024-09-08,Sunbulah Frozen Molokhia,Food,31.61,439,41,108,3413.88,9,103
+2024-09-08,Wadi Food Olive Oil,Food,145.56,98,35,198,28820.88,9,28
+2024-09-08,Juhayna Milk,Food,20.5,44,5,68,1394.0,9,65
+2024-09-08,Lamar Mango Juice,Beverage,26.0,40,30,130,3380.0,9,83
+2024-09-08,Nescafe Gold,Beverage,201.71,266,31,109,21986.39,9,189
+2024-09-08,Lipton Tea Bags,Beverage,78.16,337,39,138,10786.08,9,167
+2024-09-08,Nestlé Pure Life Water,Beverage,7.29,52,24,21,153.09,9,140
+2024-09-08,Coca-Cola Can,Beverage,19.21,423,14,138,2650.98,9,93
+2024-09-08,Corona Chocolate,Snacks,35.63,334,46,175,6235.25,9,174
+2024-09-08,Chipsy Potato Chips,Snacks,10.99,367,32,187,2055.13,9,71
+2024-09-08,Bake Rolz,Snacks,16.16,54,32,30,484.8,9,126
+2024-09-08,Molto Croissant,Snacks,16.12,38,24,171,2756.52,9,199
+2024-09-08,Bisco Misr Biscuit,Snacks,44.74,99,12,4,178.96,9,191
+2024-09-08,Signal Toothpaste,Personal Care,29.12,15,15,128,3727.36,9,98
+2024-09-08,Dove Shampoo,Personal Care,121.84,410,21,43,5239.12,9,105
+2024-09-08,Nivea Face Wash,Personal Care,136.5,409,22,188,25662.0,9,40
+2024-09-08,Dettol Hand Sanitizer,Personal Care,104.0,25,26,110,11440.0,9,79
+2024-09-08,Fa Deodorant,Personal Care,96.67,144,50,148,14307.16,9,170
+2024-09-08,Samsung Galaxy A15,Electronics,10154.14,243,37,93,944335.02,9,24
+2024-09-08,Anker Power Bank,Electronics,849.73,300,15,95,80724.35,9,50
+2024-09-08,JBL Bluetooth Speaker,Electronics,1755.12,62,41,173,303635.76,9,195
+2024-09-08,Lenovo Laptop,Electronics,15807.34,389,37,1,15807.34,9,21
+2024-09-08,Sony Headphones,Electronics,1415.21,16,20,12,16982.52,9,130
+2024-09-08,Ariel Washing Powder,Home Essentials,149.12,481,14,46,6859.52,9,19
+2024-09-08,Persil Liquid Detergent,Home Essentials,205.29,477,50,190,39005.1,9,177
+2024-09-08,Fine Toilet Paper,Home Essentials,106.45,174,20,107,11390.15,9,194
+2024-09-08,Clorox Disinfectant,Home Essentials,72.4,432,9,147,10642.8,9,105
+2024-09-08,Tefal Kettle,Home Essentials,759.7,354,8,46,34946.2,9,67
+2024-09-15,Halawa Tahini,Food,130.43,33,30,18,2347.74,9,129
+2024-09-15,Pasta Regina,Food,27.32,406,24,84,2294.88,9,32
+2024-09-15,Sunbulah Frozen Molokhia,Food,36.59,14,28,52,1902.68,9,84
+2024-09-15,Wadi Food Olive Oil,Food,147.66,165,44,63,9302.58,9,128
+2024-09-15,Juhayna Milk,Food,31.05,262,17,188,5837.4,9,149
+2024-09-15,Lamar Mango Juice,Beverage,44.01,135,14,2,88.02,9,114
+2024-09-15,Nescafe Gold,Beverage,123.11,287,27,163,20066.93,9,187
+2024-09-15,Lipton Tea Bags,Beverage,111.4,496,26,1,111.4,9,178
+2024-09-15,Nestlé Pure Life Water,Beverage,10.64,387,24,27,287.28,9,62
+2024-09-15,Coca-Cola Can,Beverage,15.3,131,31,126,1927.8,9,25
+2024-09-15,Corona Chocolate,Snacks,58.9,82,50,72,4240.8,9,33
+2024-09-15,Chipsy Potato Chips,Snacks,10.66,128,38,106,1129.96,9,189
+2024-09-15,Bake Rolz,Snacks,32.91,244,10,149,4903.59,9,34
+2024-09-15,Molto Croissant,Snacks,15.05,336,30,20,301.0,9,161
+2024-09-15,Bisco Misr Biscuit,Snacks,42.03,232,47,34,1429.02,9,70
+2024-09-15,Signal Toothpaste,Personal Care,33.75,445,25,101,3408.75,9,189
+2024-09-15,Dove Shampoo,Personal Care,146.55,177,25,116,16999.8,9,79
+2024-09-15,Nivea Face Wash,Personal Care,150.37,493,17,35,5262.95,9,159
+2024-09-15,Dettol Hand Sanitizer,Personal Care,57.63,64,15,116,6685.08,9,129
+2024-09-15,Fa Deodorant,Personal Care,81.98,71,39,92,7542.16,9,63
+2024-09-15,Samsung Galaxy A15,Electronics,10903.83,247,21,31,338018.73,9,33
+2024-09-15,Anker Power Bank,Electronics,610.33,361,24,181,110469.73,9,188
+2024-09-15,JBL Bluetooth Speaker,Electronics,2103.3,120,25,38,79925.4,9,33
+2024-09-15,Lenovo Laptop,Electronics,19978.1,192,30,132,2637109.2,9,22
+2024-09-15,Sony Headphones,Electronics,1306.31,143,16,8,10450.48,9,113
+2024-09-15,Ariel Washing Powder,Home Essentials,188.37,294,40,64,12055.68,9,34
+2024-09-15,Persil Liquid Detergent,Home Essentials,196.2,421,13,32,6278.4,9,13
+2024-09-15,Fine Toilet Paper,Home Essentials,79.63,409,19,34,2707.42,9,60
+2024-09-15,Clorox Disinfectant,Home Essentials,107.66,200,48,162,17440.92,9,175
+2024-09-15,Tefal Kettle,Home Essentials,742.02,310,21,20,14840.4,9,15
+2024-09-22,Halawa Tahini,Food,149.72,111,46,114,17068.08,9,42
+2024-09-22,Pasta Regina,Food,11.84,443,26,32,378.88,9,20
+2024-09-22,Sunbulah Frozen Molokhia,Food,48.27,35,15,147,7095.69,9,120
+2024-09-22,Wadi Food Olive Oil,Food,178.6,212,36,8,1428.8,9,107
+2024-09-22,Juhayna Milk,Food,40.5,98,27,55,2227.5,9,57
+2024-09-22,Lamar Mango Juice,Beverage,31.87,238,14,9,286.83,9,167
+2024-09-22,Nescafe Gold,Beverage,200.49,135,46,76,15237.24,9,137
+2024-09-22,Lipton Tea Bags,Beverage,78.84,291,35,16,1261.44,9,32
+2024-09-22,Nestlé Pure Life Water,Beverage,9.2,80,31,52,478.4,9,174
+2024-09-22,Coca-Cola Can,Beverage,18.85,279,20,162,3053.7,9,149
+2024-09-22,Corona Chocolate,Snacks,51.79,205,50,92,4764.68,9,132
+2024-09-22,Chipsy Potato Chips,Snacks,18.17,258,27,145,2634.65,9,138
+2024-09-22,Bake Rolz,Snacks,21.43,148,16,7,150.01,9,91
+2024-09-22,Molto Croissant,Snacks,15.97,25,22,15,239.55,9,130
+2024-09-22,Bisco Misr Biscuit,Snacks,40.88,402,42,60,2452.8,9,50
+2024-09-22,Signal Toothpaste,Personal Care,28.0,346,20,69,1932.0,9,146
+2024-09-22,Dove Shampoo,Personal Care,145.3,479,8,196,28478.8,9,66
+2024-09-22,Nivea Face Wash,Personal Care,194.84,418,29,91,17730.44,9,54
+2024-09-22,Dettol Hand Sanitizer,Personal Care,62.33,313,25,189,11780.37,9,188
+2024-09-22,Fa Deodorant,Personal Care,85.11,312,6,181,15404.91,9,189
+2024-09-22,Samsung Galaxy A15,Electronics,10703.36,300,41,37,396024.32,9,154
+2024-09-22,Anker Power Bank,Electronics,1163.86,438,36,139,161776.54,9,89
+2024-09-22,JBL Bluetooth Speaker,Electronics,1675.56,29,10,15,25133.4,9,69
+2024-09-22,Lenovo Laptop,Electronics,19211.64,20,38,123,2363031.72,9,10
+2024-09-22,Sony Headphones,Electronics,1099.04,324,17,34,37367.36,9,97
+2024-09-22,Ariel Washing Powder,Home Essentials,177.36,480,25,16,2837.76,9,15
+2024-09-22,Persil Liquid Detergent,Home Essentials,164.77,370,14,199,32789.23,9,38
+2024-09-22,Fine Toilet Paper,Home Essentials,138.49,450,28,19,2631.31,9,105
+2024-09-22,Clorox Disinfectant,Home Essentials,99.32,349,30,151,14997.32,9,35
+2024-09-22,Tefal Kettle,Home Essentials,868.28,175,13,41,35599.48,9,197
+2024-09-29,Halawa Tahini,Food,144.87,415,45,125,18108.75,9,176
+2024-09-29,Pasta Regina,Food,16.35,372,40,178,2910.3,9,167
+2024-09-29,Sunbulah Frozen Molokhia,Food,43.61,124,47,151,6585.11,9,54
+2024-09-29,Wadi Food Olive Oil,Food,125.41,385,49,76,9531.16,9,42
+2024-09-29,Juhayna Milk,Food,25.33,10,49,147,3723.51,9,110
+2024-09-29,Lamar Mango Juice,Beverage,46.27,404,41,9,416.43,9,56
+2024-09-29,Nescafe Gold,Beverage,198.31,481,44,57,11303.67,9,173
+2024-09-29,Lipton Tea Bags,Beverage,89.59,489,36,37,3314.83,9,94
+2024-09-29,Nestlé Pure Life Water,Beverage,16.18,131,27,82,1326.76,9,52
+2024-09-29,Coca-Cola Can,Beverage,16.36,55,50,172,2813.92,9,173
+2024-09-29,Corona Chocolate,Snacks,49.17,181,33,3,147.51,9,77
+2024-09-29,Chipsy Potato Chips,Snacks,13.15,364,9,90,1183.5,9,75
+2024-09-29,Bake Rolz,Snacks,30.74,378,5,13,399.62,9,108
+2024-09-29,Molto Croissant,Snacks,14.38,224,15,106,1524.28,9,136
+2024-09-29,Bisco Misr Biscuit,Snacks,51.45,189,39,97,4990.65,9,35
+2024-09-29,Signal Toothpaste,Personal Care,49.86,413,41,167,8326.62,9,185
+2024-09-29,Dove Shampoo,Personal Care,98.05,241,9,9,882.45,9,85
+2024-09-29,Nivea Face Wash,Personal Care,122.61,143,11,19,2329.59,9,97
+2024-09-29,Dettol Hand Sanitizer,Personal Care,61.91,202,15,188,11639.08,9,29
+2024-09-29,Fa Deodorant,Personal Care,98.29,469,10,87,8551.23,9,162
+2024-09-29,Samsung Galaxy A15,Electronics,11970.55,467,35,181,2166669.55,9,17
+2024-09-29,Anker Power Bank,Electronics,801.93,344,15,156,125101.08,9,121
+2024-09-29,JBL Bluetooth Speaker,Electronics,1657.1,61,26,53,87826.3,9,58
+2024-09-29,Lenovo Laptop,Electronics,17864.96,293,39,68,1214817.28,9,179
+2024-09-29,Sony Headphones,Electronics,1068.91,131,11,13,13895.83,9,110
+2024-09-29,Ariel Washing Powder,Home Essentials,165.74,440,36,40,6629.6,9,23
+2024-09-29,Persil Liquid Detergent,Home Essentials,186.08,228,10,76,14142.08,9,179
+2024-09-29,Fine Toilet Paper,Home Essentials,121.88,255,17,25,3047.0,9,16
+2024-09-29,Clorox Disinfectant,Home Essentials,64.49,336,23,21,1354.29,9,131
+2024-09-29,Tefal Kettle,Home Essentials,1121.88,167,30,121,135747.48,9,135
+2024-10-06,Halawa Tahini,Food,139.49,145,10,165,23015.85,10,149
+2024-10-06,Pasta Regina,Food,17.75,199,29,95,1686.25,10,57
+2024-10-06,Sunbulah Frozen Molokhia,Food,33.37,144,33,120,4004.4,10,77
+2024-10-06,Wadi Food Olive Oil,Food,107.15,147,41,16,1714.4,10,48
+2024-10-06,Juhayna Milk,Food,42.57,351,11,22,936.54,10,181
+2024-10-06,Lamar Mango Juice,Beverage,33.59,287,31,194,6516.46,10,160
+2024-10-06,Nescafe Gold,Beverage,149.58,41,29,134,20043.72,10,117
+2024-10-06,Lipton Tea Bags,Beverage,117.59,361,35,147,17285.73,10,70
+2024-10-06,Nestlé Pure Life Water,Beverage,12.14,50,30,183,2221.62,10,18
+2024-10-06,Coca-Cola Can,Beverage,15.02,471,38,147,2207.94,10,183
+2024-10-06,Corona Chocolate,Snacks,59.31,85,12,194,11506.14,10,124
+2024-10-06,Chipsy Potato Chips,Snacks,12.59,95,18,50,629.5,10,42
+2024-10-06,Bake Rolz,Snacks,15.85,50,48,112,1775.2,10,61
+2024-10-06,Molto Croissant,Snacks,19.97,331,14,153,3055.41,10,76
+2024-10-06,Bisco Misr Biscuit,Snacks,34.59,382,9,23,795.57,10,109
+2024-10-06,Signal Toothpaste,Personal Care,41.69,292,25,71,2959.99,10,143
+2024-10-06,Dove Shampoo,Personal Care,116.65,457,5,180,20997.0,10,169
+2024-10-06,Nivea Face Wash,Personal Care,196.38,410,31,29,5695.02,10,116
+2024-10-06,Dettol Hand Sanitizer,Personal Care,60.47,300,42,150,9070.5,10,35
+2024-10-06,Fa Deodorant,Personal Care,124.74,298,11,74,9230.76,10,147
+2024-10-06,Samsung Galaxy A15,Electronics,11760.27,459,31,68,799698.36,10,108
+2024-10-06,Anker Power Bank,Electronics,958.35,302,43,122,116918.7,10,19
+2024-10-06,JBL Bluetooth Speaker,Electronics,1672.2,216,14,159,265879.8,10,165
+2024-10-06,Lenovo Laptop,Electronics,19765.69,215,7,102,2016100.38,10,94
+2024-10-06,Sony Headphones,Electronics,1314.31,35,35,69,90687.39,10,105
+2024-10-06,Ariel Washing Powder,Home Essentials,121.62,428,24,80,9729.6,10,81
+2024-10-06,Persil Liquid Detergent,Home Essentials,234.28,449,49,176,41233.28,10,35
+2024-10-06,Fine Toilet Paper,Home Essentials,147.94,126,13,77,11391.38,10,200
+2024-10-06,Clorox Disinfectant,Home Essentials,81.02,432,25,69,5590.38,10,196
+2024-10-06,Tefal Kettle,Home Essentials,908.39,340,10,49,44511.11,10,123
+2024-10-13,Halawa Tahini,Food,71.14,431,31,190,13516.6,10,134
+2024-10-13,Pasta Regina,Food,25.19,454,28,15,377.85,10,141
+2024-10-13,Sunbulah Frozen Molokhia,Food,43.74,43,24,182,7960.68,10,139
+2024-10-13,Wadi Food Olive Oil,Food,128.41,409,38,146,18747.86,10,17
+2024-10-13,Juhayna Milk,Food,25.21,458,17,15,378.15,10,73
+2024-10-13,Lamar Mango Juice,Beverage,25.83,35,28,181,4675.23,10,60
+2024-10-13,Nescafe Gold,Beverage,155.62,431,34,130,20230.6,10,111
+2024-10-13,Lipton Tea Bags,Beverage,94.48,73,48,8,755.84,10,71
+2024-10-13,Nestlé Pure Life Water,Beverage,10.59,314,33,46,487.14,10,131
+2024-10-13,Coca-Cola Can,Beverage,15.87,189,27,42,666.54,10,76
+2024-10-13,Corona Chocolate,Snacks,49.96,362,10,73,3647.08,10,17
+2024-10-13,Chipsy Potato Chips,Snacks,15.8,93,41,200,3160.0,10,64
+2024-10-13,Bake Rolz,Snacks,32.14,341,19,174,5592.36,10,62
+2024-10-13,Molto Croissant,Snacks,12.69,219,37,6,76.14,10,184
+2024-10-13,Bisco Misr Biscuit,Snacks,25.27,476,13,166,4194.82,10,54
+2024-10-13,Signal Toothpaste,Personal Care,43.03,14,19,65,2796.95,10,165
+2024-10-13,Dove Shampoo,Personal Care,144.41,166,50,182,26282.62,10,174
+2024-10-13,Nivea Face Wash,Personal Care,155.8,468,29,90,14022.0,10,127
+2024-10-13,Dettol Hand Sanitizer,Personal Care,67.64,248,24,174,11769.36,10,143
+2024-10-13,Fa Deodorant,Personal Care,117.7,213,42,27,3177.9,10,11
+2024-10-13,Samsung Galaxy A15,Electronics,11023.03,349,28,144,1587316.32,10,175
+2024-10-13,Anker Power Bank,Electronics,915.64,154,24,176,161152.64,10,37
+2024-10-13,JBL Bluetooth Speaker,Electronics,1981.74,182,22,164,325005.36,10,93
+2024-10-13,Lenovo Laptop,Electronics,21030.44,143,46,183,3848570.52,10,176
+2024-10-13,Sony Headphones,Electronics,1079.27,86,38,196,211536.92,10,71
+2024-10-13,Ariel Washing Powder,Home Essentials,191.97,422,43,104,19964.88,10,179
+2024-10-13,Persil Liquid Detergent,Home Essentials,181.96,81,6,168,30569.28,10,137
+2024-10-13,Fine Toilet Paper,Home Essentials,149.81,142,31,104,15580.24,10,109
+2024-10-13,Clorox Disinfectant,Home Essentials,101.57,308,50,147,14930.79,10,58
+2024-10-13,Tefal Kettle,Home Essentials,871.58,375,19,176,153398.08,10,146
+2024-10-20,Halawa Tahini,Food,113.83,253,47,92,10472.36,10,139
+2024-10-20,Pasta Regina,Food,16.0,97,47,143,2288.0,10,56
+2024-10-20,Sunbulah Frozen Molokhia,Food,28.81,251,13,190,5473.9,10,76
+2024-10-20,Wadi Food Olive Oil,Food,167.02,296,16,175,29228.5,10,95
+2024-10-20,Juhayna Milk,Food,39.63,123,27,58,2298.54,10,200
+2024-10-20,Lamar Mango Juice,Beverage,46.79,225,26,96,4491.84,10,76
+2024-10-20,Nescafe Gold,Beverage,196.12,247,12,121,23730.52,10,23
+2024-10-20,Lipton Tea Bags,Beverage,110.65,308,42,159,17593.35,10,28
+2024-10-20,Nestlé Pure Life Water,Beverage,12.08,109,37,31,374.48,10,184
+2024-10-20,Coca-Cola Can,Beverage,13.82,162,31,14,193.48,10,48
+2024-10-20,Corona Chocolate,Snacks,25.49,112,26,105,2676.45,10,155
+2024-10-20,Chipsy Potato Chips,Snacks,23.39,244,14,81,1894.59,10,193
+2024-10-20,Bake Rolz,Snacks,18.61,51,36,86,1600.46,10,171
+2024-10-20,Molto Croissant,Snacks,19.87,170,45,15,298.05,10,11
+2024-10-20,Bisco Misr Biscuit,Snacks,38.56,117,15,148,5706.88,10,50
+2024-10-20,Signal Toothpaste,Personal Care,39.69,400,10,34,1349.46,10,167
+2024-10-20,Dove Shampoo,Personal Care,114.7,229,30,110,12617.0,10,132
+2024-10-20,Nivea Face Wash,Personal Care,169.83,29,39,52,8831.16,10,197
+2024-10-20,Dettol Hand Sanitizer,Personal Care,76.12,17,25,194,14767.28,10,145
+2024-10-20,Fa Deodorant,Personal Care,73.34,356,5,161,11807.74,10,197
+2024-10-20,Samsung Galaxy A15,Electronics,10497.65,365,27,80,839812.0,10,43
+2024-10-20,Anker Power Bank,Electronics,571.9,267,42,79,45180.1,10,52
+2024-10-20,JBL Bluetooth Speaker,Electronics,1565.29,33,24,75,117396.75,10,126
+2024-10-20,Lenovo Laptop,Electronics,20094.82,315,38,87,1748249.34,10,121
+2024-10-20,Sony Headphones,Electronics,1432.78,78,26,126,180530.28,10,101
+2024-10-20,Ariel Washing Powder,Home Essentials,180.01,94,30,5,900.05,10,68
+2024-10-20,Persil Liquid Detergent,Home Essentials,172.43,77,18,188,32416.84,10,15
+2024-10-20,Fine Toilet Paper,Home Essentials,119.23,96,12,94,11207.62,10,192
+2024-10-20,Clorox Disinfectant,Home Essentials,95.54,29,29,164,15668.56,10,75
+2024-10-20,Tefal Kettle,Home Essentials,1085.62,329,8,153,166099.86,10,22
+2024-10-27,Halawa Tahini,Food,116.2,344,6,13,1510.6,10,186
+2024-10-27,Pasta Regina,Food,12.32,237,29,32,394.24,10,150
+2024-10-27,Sunbulah Frozen Molokhia,Food,27.58,369,14,53,1461.74,10,187
+2024-10-27,Wadi Food Olive Oil,Food,162.29,14,24,108,17527.32,10,179
+2024-10-27,Juhayna Milk,Food,23.03,276,22,160,3684.8,10,165
+2024-10-27,Lamar Mango Juice,Beverage,42.52,224,11,131,5570.12,10,194
+2024-10-27,Nescafe Gold,Beverage,200.3,154,12,28,5608.4,10,137
+2024-10-27,Lipton Tea Bags,Beverage,63.91,112,21,134,8563.94,10,61
+2024-10-27,Nestlé Pure Life Water,Beverage,10.37,219,23,42,435.54,10,20
+2024-10-27,Coca-Cola Can,Beverage,15.48,476,18,177,2739.96,10,133
+2024-10-27,Corona Chocolate,Snacks,33.22,11,5,172,5713.84,10,32
+2024-10-27,Chipsy Potato Chips,Snacks,23.6,437,41,172,4059.2,10,136
+2024-10-27,Bake Rolz,Snacks,17.98,56,37,20,359.6,10,195
+2024-10-27,Molto Croissant,Snacks,17.24,473,21,165,2844.6,10,69
+2024-10-27,Bisco Misr Biscuit,Snacks,38.7,161,21,119,4605.3,10,22
+2024-10-27,Signal Toothpaste,Personal Care,27.99,99,7,75,2099.25,10,102
+2024-10-27,Dove Shampoo,Personal Care,144.13,170,32,190,27384.7,10,39
+2024-10-27,Nivea Face Wash,Personal Care,132.35,398,7,3,397.05,10,45
+2024-10-27,Dettol Hand Sanitizer,Personal Care,96.43,97,26,92,8871.56,10,122
+2024-10-27,Fa Deodorant,Personal Care,126.86,147,10,96,12178.56,10,97
+2024-10-27,Samsung Galaxy A15,Electronics,10365.74,215,30,117,1212791.58,10,79
+2024-10-27,Anker Power Bank,Electronics,1085.0,363,35,108,117180.0,10,176
+2024-10-27,JBL Bluetooth Speaker,Electronics,2386.12,95,12,34,81128.08,10,188
+2024-10-27,Lenovo Laptop,Electronics,20084.88,492,15,27,542291.76,10,116
+2024-10-27,Sony Headphones,Electronics,1446.74,257,41,174,251732.76,10,122
+2024-10-27,Ariel Washing Powder,Home Essentials,134.5,204,27,157,21116.5,10,17
+2024-10-27,Persil Liquid Detergent,Home Essentials,236.26,460,13,124,29296.24,10,134
+2024-10-27,Fine Toilet Paper,Home Essentials,83.47,220,33,12,1001.64,10,26
+2024-10-27,Clorox Disinfectant,Home Essentials,68.31,170,5,181,12364.11,10,183
+2024-10-27,Tefal Kettle,Home Essentials,962.41,390,41,186,179008.26,10,154
+2024-11-03,Halawa Tahini,Food,72.4,499,47,87,6298.8,11,142
+2024-11-03,Pasta Regina,Food,20.46,368,44,25,511.5,11,120
+2024-11-03,Sunbulah Frozen Molokhia,Food,39.85,137,35,89,3546.65,11,179
+2024-11-03,Wadi Food Olive Oil,Food,161.16,207,14,143,23045.88,11,166
+2024-11-03,Juhayna Milk,Food,21.64,339,15,130,2813.2,11,130
+2024-11-03,Lamar Mango Juice,Beverage,46.3,455,15,20,926.0,11,135
+2024-11-03,Nescafe Gold,Beverage,161.68,179,22,13,2101.84,11,139
+2024-11-03,Lipton Tea Bags,Beverage,65.59,339,29,104,6821.36,11,70
+2024-11-03,Nestlé Pure Life Water,Beverage,6.18,237,41,115,710.7,11,32
+2024-11-03,Coca-Cola Can,Beverage,18.57,238,25,31,575.67,11,137
+2024-11-03,Corona Chocolate,Snacks,49.81,19,11,104,5180.24,11,115
+2024-11-03,Chipsy Potato Chips,Snacks,10.54,291,5,24,252.96,11,164
+2024-11-03,Bake Rolz,Snacks,34.26,336,24,131,4488.06,11,153
+2024-11-03,Molto Croissant,Snacks,12.07,353,34,88,1062.16,11,103
+2024-11-03,Bisco Misr Biscuit,Snacks,49.76,428,19,117,5821.92,11,94
+2024-11-03,Signal Toothpaste,Personal Care,41.8,327,43,122,5099.6,11,193
+2024-11-03,Dove Shampoo,Personal Care,132.57,376,33,30,3977.1,11,34
+2024-11-03,Nivea Face Wash,Personal Care,218.71,123,5,88,19246.48,11,100
+2024-11-03,Dettol Hand Sanitizer,Personal Care,108.09,419,23,141,15240.69,11,143
+2024-11-03,Fa Deodorant,Personal Care,86.17,64,7,43,3705.31,11,136
+2024-11-03,Samsung Galaxy A15,Electronics,10280.9,377,31,28,287865.2,11,75
+2024-11-03,Anker Power Bank,Electronics,927.6,106,12,101,93687.6,11,65
+2024-11-03,JBL Bluetooth Speaker,Electronics,1957.05,410,17,184,360097.2,11,96
+2024-11-03,Lenovo Laptop,Electronics,15754.36,222,7,163,2567960.68,11,182
+2024-11-03,Sony Headphones,Electronics,1253.29,405,33,118,147888.22,11,178
+2024-11-03,Ariel Washing Powder,Home Essentials,167.15,268,13,128,21395.2,11,11
+2024-11-03,Persil Liquid Detergent,Home Essentials,203.04,34,40,111,22537.44,11,159
+2024-11-03,Fine Toilet Paper,Home Essentials,111.22,270,16,178,19797.16,11,158
+2024-11-03,Clorox Disinfectant,Home Essentials,62.16,427,13,27,1678.32,11,109
+2024-11-03,Tefal Kettle,Home Essentials,1028.76,320,25,130,133738.8,11,108
+2024-11-10,Halawa Tahini,Food,91.87,321,49,196,18006.52,11,73
+2024-11-10,Pasta Regina,Food,15.47,185,23,116,1794.52,11,44
+2024-11-10,Sunbulah Frozen Molokhia,Food,24.15,318,49,192,4636.8,11,141
+2024-11-10,Wadi Food Olive Oil,Food,115.87,369,40,81,9385.47,11,192
+2024-11-10,Juhayna Milk,Food,42.1,293,45,56,2357.6,11,61
+2024-11-10,Lamar Mango Juice,Beverage,30.24,375,23,176,5322.24,11,98
+2024-11-10,Nescafe Gold,Beverage,239.75,77,50,167,40038.25,11,55
+2024-11-10,Lipton Tea Bags,Beverage,85.27,365,45,83,7077.41,11,191
+2024-11-10,Nestlé Pure Life Water,Beverage,6.73,190,40,123,827.79,11,159
+2024-11-10,Coca-Cola Can,Beverage,15.71,351,50,107,1680.97,11,182
+2024-11-10,Corona Chocolate,Snacks,49.91,440,39,74,3693.34,11,118
+2024-11-10,Chipsy Potato Chips,Snacks,22.12,277,11,7,154.84,11,107
+2024-11-10,Bake Rolz,Snacks,17.91,353,8,52,931.32,11,78
+2024-11-10,Molto Croissant,Snacks,17.5,92,23,175,3062.5,11,74
+2024-11-10,Bisco Misr Biscuit,Snacks,29.39,41,49,76,2233.64,11,62
+2024-11-10,Signal Toothpaste,Personal Care,47.61,26,27,116,5522.76,11,36
+2024-11-10,Dove Shampoo,Personal Care,129.29,355,40,58,7498.82,11,200
+2024-11-10,Nivea Face Wash,Personal Care,204.13,209,20,131,26741.03,11,188
+2024-11-10,Dettol Hand Sanitizer,Personal Care,70.13,350,8,98,6872.74,11,109
+2024-11-10,Fa Deodorant,Personal Care,89.16,413,48,81,7221.96,11,151
+2024-11-10,Samsung Galaxy A15,Electronics,10107.6,390,21,52,525595.2,11,168
+2024-11-10,Anker Power Bank,Electronics,1108.19,450,33,58,64275.02,11,172
+2024-11-10,JBL Bluetooth Speaker,Electronics,2204.63,341,28,194,427698.22,11,160
+2024-11-10,Lenovo Laptop,Electronics,18826.31,318,17,199,3746435.69,11,195
+2024-11-10,Sony Headphones,Electronics,1478.57,160,33,46,68014.22,11,184
+2024-11-10,Ariel Washing Powder,Home Essentials,125.96,98,37,31,3904.76,11,106
+2024-11-10,Persil Liquid Detergent,Home Essentials,154.06,152,40,68,10476.08,11,43
+2024-11-10,Fine Toilet Paper,Home Essentials,87.07,443,21,2,174.14,11,94
+2024-11-10,Clorox Disinfectant,Home Essentials,82.64,489,14,11,909.04,11,49
+2024-11-10,Tefal Kettle,Home Essentials,1164.31,315,8,199,231697.69,11,170
+2024-11-17,Halawa Tahini,Food,111.56,348,24,126,14056.56,11,156
+2024-11-17,Pasta Regina,Food,21.0,47,50,82,1722.0,11,144
+2024-11-17,Sunbulah Frozen Molokhia,Food,26.6,104,38,18,478.8,11,139
+2024-11-17,Wadi Food Olive Oil,Food,99.12,288,39,104,10308.48,11,33
+2024-11-17,Juhayna Milk,Food,30.48,462,18,170,5181.6,11,94
+2024-11-17,Lamar Mango Juice,Beverage,33.28,160,18,193,6423.04,11,168
+2024-11-17,Nescafe Gold,Beverage,188.96,297,46,3,566.88,11,39
+2024-11-17,Lipton Tea Bags,Beverage,96.83,238,20,165,15976.95,11,167
+2024-11-17,Nestlé Pure Life Water,Beverage,18.78,134,7,175,3286.5,11,92
+2024-11-17,Coca-Cola Can,Beverage,13.81,417,12,99,1367.19,11,75
+2024-11-17,Corona Chocolate,Snacks,41.61,154,6,133,5534.13,11,105
+2024-11-17,Chipsy Potato Chips,Snacks,17.71,270,33,125,2213.75,11,21
+2024-11-17,Bake Rolz,Snacks,20.93,343,17,83,1737.19,11,141
+2024-11-17,Molto Croissant,Snacks,10.82,59,15,198,2142.36,11,147
+2024-11-17,Bisco Misr Biscuit,Snacks,41.0,330,9,54,2214.0,11,181
+2024-11-17,Signal Toothpaste,Personal Care,43.89,119,48,109,4784.01,11,36
+2024-11-17,Dove Shampoo,Personal Care,96.45,434,49,190,18325.5,11,121
+2024-11-17,Nivea Face Wash,Personal Care,204.05,491,9,192,39177.6,11,185
+2024-11-17,Dettol Hand Sanitizer,Personal Care,60.76,245,50,85,5164.6,11,19
+2024-11-17,Fa Deodorant,Personal Care,66.13,37,16,65,4298.45,11,152
+2024-11-17,Samsung Galaxy A15,Electronics,10140.88,430,19,67,679438.96,11,114
+2024-11-17,Anker Power Bank,Electronics,771.62,332,30,111,85649.82,11,90
+2024-11-17,JBL Bluetooth Speaker,Electronics,1516.89,354,12,137,207813.93,11,11
+2024-11-17,Lenovo Laptop,Electronics,19489.96,326,9,194,3781052.24,11,200
+2024-11-17,Sony Headphones,Electronics,1251.36,368,9,92,115125.12,11,138
+2024-11-17,Ariel Washing Powder,Home Essentials,128.49,412,48,78,10022.22,11,165
+2024-11-17,Persil Liquid Detergent,Home Essentials,158.65,401,33,98,15547.7,11,111
+2024-11-17,Fine Toilet Paper,Home Essentials,136.66,25,35,41,5603.06,11,146
+2024-11-17,Clorox Disinfectant,Home Essentials,65.39,392,30,140,9154.6,11,85
+2024-11-17,Tefal Kettle,Home Essentials,1180.07,83,24,174,205332.18,11,196
+2024-11-24,Halawa Tahini,Food,114.79,500,5,142,16300.18,11,152
+2024-11-24,Pasta Regina,Food,12.83,31,5,147,1886.01,11,162
+2024-11-24,Sunbulah Frozen Molokhia,Food,31.82,290,10,79,2513.78,11,63
+2024-11-24,Wadi Food Olive Oil,Food,169.8,472,27,55,9339.0,11,115
+2024-11-24,Juhayna Milk,Food,47.17,445,37,37,1745.29,11,51
+2024-11-24,Lamar Mango Juice,Beverage,29.6,325,21,50,1480.0,11,39
+2024-11-24,Nescafe Gold,Beverage,143.58,419,41,14,2010.12,11,150
+2024-11-24,Lipton Tea Bags,Beverage,82.29,291,9,75,6171.75,11,181
+2024-11-24,Nestlé Pure Life Water,Beverage,6.01,60,17,186,1117.86,11,158
+2024-11-24,Coca-Cola Can,Beverage,14.87,179,27,33,490.71,11,181
+2024-11-24,Corona Chocolate,Snacks,46.22,61,23,159,7348.98,11,27
+2024-11-24,Chipsy Potato Chips,Snacks,23.5,172,36,116,2726.0,11,94
+2024-11-24,Bake Rolz,Snacks,27.33,166,49,150,4099.5,11,49
+2024-11-24,Molto Croissant,Snacks,15.66,196,25,110,1722.6,11,53
+2024-11-24,Bisco Misr Biscuit,Snacks,25.14,136,19,183,4600.62,11,199
+2024-11-24,Signal Toothpaste,Personal Care,44.23,151,28,35,1548.05,11,183
+2024-11-24,Dove Shampoo,Personal Care,138.64,459,35,119,16498.16,11,124
+2024-11-24,Nivea Face Wash,Personal Care,166.64,166,36,142,23662.88,11,37
+2024-11-24,Dettol Hand Sanitizer,Personal Care,62.3,320,10,72,4485.6,11,45
+2024-11-24,Fa Deodorant,Personal Care,122.39,110,21,188,23009.32,11,170
+2024-11-24,Samsung Galaxy A15,Electronics,10152.92,48,6,130,1319879.6,11,171
+2024-11-24,Anker Power Bank,Electronics,521.84,307,42,104,54271.36,11,161
+2024-11-24,JBL Bluetooth Speaker,Electronics,1712.76,28,40,67,114754.92,11,149
+2024-11-24,Lenovo Laptop,Electronics,21257.9,286,35,168,3571327.2,11,48
+2024-11-24,Sony Headphones,Electronics,1119.49,124,42,188,210464.12,11,84
+2024-11-24,Ariel Washing Powder,Home Essentials,130.71,266,37,24,3137.04,11,111
+2024-11-24,Persil Liquid Detergent,Home Essentials,186.39,15,47,62,11556.18,11,167
+2024-11-24,Fine Toilet Paper,Home Essentials,126.31,397,37,36,4547.16,11,124
+2024-11-24,Clorox Disinfectant,Home Essentials,61.15,299,41,169,10334.35,11,47
+2024-11-24,Tefal Kettle,Home Essentials,1067.96,257,27,11,11747.56,11,66
+2024-12-01,Halawa Tahini,Food,126.15,128,9,68,8578.2,12,104
+2024-12-01,Pasta Regina,Food,14.68,352,18,133,1952.44,12,102
+2024-12-01,Sunbulah Frozen Molokhia,Food,31.64,479,34,12,379.68,12,20
+2024-12-01,Wadi Food Olive Oil,Food,197.67,175,11,181,35778.27,12,143
+2024-12-01,Juhayna Milk,Food,39.01,150,21,149,5812.49,12,149
+2024-12-01,Lamar Mango Juice,Beverage,39.25,202,46,97,3807.25,12,103
+2024-12-01,Nescafe Gold,Beverage,196.4,469,9,133,26121.2,12,74
+2024-12-01,Lipton Tea Bags,Beverage,76.34,474,19,133,10153.22,12,113
+2024-12-01,Nestlé Pure Life Water,Beverage,10.29,454,27,125,1286.25,12,133
+2024-12-01,Coca-Cola Can,Beverage,18.87,13,37,36,679.32,12,122
+2024-12-01,Corona Chocolate,Snacks,26.62,49,37,165,4392.3,12,81
+2024-12-01,Chipsy Potato Chips,Snacks,13.17,105,15,93,1224.81,12,164
+2024-12-01,Bake Rolz,Snacks,29.35,70,47,59,1731.65,12,116
+2024-12-01,Molto Croissant,Snacks,18.11,378,12,124,2245.64,12,182
+2024-12-01,Bisco Misr Biscuit,Snacks,39.36,117,42,42,1653.12,12,175
+2024-12-01,Signal Toothpaste,Personal Care,50.0,21,20,12,600.0,12,42
+2024-12-01,Dove Shampoo,Personal Care,125.88,92,13,162,20392.56,12,141
+2024-12-01,Nivea Face Wash,Personal Care,125.09,303,14,15,1876.35,12,52
+2024-12-01,Dettol Hand Sanitizer,Personal Care,68.08,102,38,104,7080.32,12,163
+2024-12-01,Fa Deodorant,Personal Care,127.85,336,6,185,23652.25,12,196
+2024-12-01,Samsung Galaxy A15,Electronics,11323.49,155,10,56,634115.44,12,124
+2024-12-01,Anker Power Bank,Electronics,924.57,251,35,44,40681.08,12,66
+2024-12-01,JBL Bluetooth Speaker,Electronics,2330.36,317,14,150,349554.0,12,56
+2024-12-01,Lenovo Laptop,Electronics,19362.48,271,21,43,832586.64,12,195
+2024-12-01,Sony Headphones,Electronics,1311.35,482,34,153,200636.55,12,161
+2024-12-01,Ariel Washing Powder,Home Essentials,125.51,203,29,34,4267.34,12,37
+2024-12-01,Persil Liquid Detergent,Home Essentials,151.66,277,37,176,26692.16,12,117
+2024-12-01,Fine Toilet Paper,Home Essentials,136.99,320,11,46,6301.54,12,131
+2024-12-01,Clorox Disinfectant,Home Essentials,113.11,317,7,137,15496.07,12,138
+2024-12-01,Tefal Kettle,Home Essentials,1076.19,57,35,169,181876.11,12,43
+2024-12-08,Halawa Tahini,Food,140.2,286,5,199,27899.8,12,183
+2024-12-08,Pasta Regina,Food,22.98,277,31,95,2183.1,12,21
+2024-12-08,Sunbulah Frozen Molokhia,Food,40.93,229,19,124,5075.32,12,107
+2024-12-08,Wadi Food Olive Oil,Food,122.06,421,49,148,18064.88,12,35
+2024-12-08,Juhayna Milk,Food,32.76,140,35,197,6453.72,12,69
+2024-12-08,Lamar Mango Juice,Beverage,47.75,52,23,154,7353.5,12,149
+2024-12-08,Nescafe Gold,Beverage,173.12,106,5,182,31507.84,12,200
+2024-12-08,Lipton Tea Bags,Beverage,105.26,305,38,31,3263.06,12,143
+2024-12-08,Nestlé Pure Life Water,Beverage,5.11,345,18,177,904.47,12,90
+2024-12-08,Coca-Cola Can,Beverage,14.09,64,14,110,1549.9,12,176
+2024-12-08,Corona Chocolate,Snacks,43.41,143,39,109,4731.69,12,154
+2024-12-08,Chipsy Potato Chips,Snacks,15.48,151,48,102,1578.96,12,62
+2024-12-08,Bake Rolz,Snacks,23.26,411,40,124,2884.24,12,55
+2024-12-08,Molto Croissant,Snacks,13.7,294,35,65,890.5,12,88
+2024-12-08,Bisco Misr Biscuit,Snacks,42.33,406,50,102,4317.66,12,198
+2024-12-08,Signal Toothpaste,Personal Care,29.14,452,47,31,903.34,12,68
+2024-12-08,Dove Shampoo,Personal Care,115.73,368,15,26,3008.98,12,64
+2024-12-08,Nivea Face Wash,Personal Care,186.08,412,26,141,26237.28,12,167
+2024-12-08,Dettol Hand Sanitizer,Personal Care,98.79,371,8,42,4149.18,12,109
+2024-12-08,Fa Deodorant,Personal Care,127.52,12,10,38,4845.76,12,130
+2024-12-08,Samsung Galaxy A15,Electronics,11851.72,232,10,17,201479.24,12,77
+2024-12-08,Anker Power Bank,Electronics,655.24,50,43,10,6552.4,12,195
+2024-12-08,JBL Bluetooth Speaker,Electronics,1884.33,215,44,168,316567.44,12,143
+2024-12-08,Lenovo Laptop,Electronics,17005.28,315,8,199,3384050.72,12,54
+2024-12-08,Sony Headphones,Electronics,1284.17,234,5,52,66776.84,12,178
+2024-12-08,Ariel Washing Powder,Home Essentials,194.46,275,23,50,9723.0,12,18
+2024-12-08,Persil Liquid Detergent,Home Essentials,228.4,271,38,179,40883.6,12,69
+2024-12-08,Fine Toilet Paper,Home Essentials,121.14,355,7,93,11266.02,12,71
+2024-12-08,Clorox Disinfectant,Home Essentials,95.85,90,10,71,6805.35,12,112
+2024-12-08,Tefal Kettle,Home Essentials,876.56,212,30,151,132360.56,12,61
+2024-12-15,Halawa Tahini,Food,101.77,387,50,18,1831.86,12,33
+2024-12-15,Pasta Regina,Food,20.99,381,40,150,3148.5,12,99
+2024-12-15,Sunbulah Frozen Molokhia,Food,30.42,427,22,58,1764.36,12,165
+2024-12-15,Wadi Food Olive Oil,Food,195.57,242,30,148,28944.36,12,11
+2024-12-15,Juhayna Milk,Food,27.83,218,37,28,779.24,12,153
+2024-12-15,Lamar Mango Juice,Beverage,26.81,160,26,30,804.3,12,141
+2024-12-15,Nescafe Gold,Beverage,244.37,458,39,148,36166.76,12,74
+2024-12-15,Lipton Tea Bags,Beverage,98.59,203,41,124,12225.16,12,72
+2024-12-15,Nestlé Pure Life Water,Beverage,16.36,407,34,175,2863.0,12,127
+2024-12-15,Coca-Cola Can,Beverage,18.97,451,6,124,2352.28,12,39
+2024-12-15,Corona Chocolate,Snacks,30.31,205,45,57,1727.67,12,183
+2024-12-15,Chipsy Potato Chips,Snacks,20.52,419,25,106,2175.12,12,100
+2024-12-15,Bake Rolz,Snacks,25.33,14,49,68,1722.44,12,73
+2024-12-15,Molto Croissant,Snacks,12.87,214,48,192,2471.04,12,97
+2024-12-15,Bisco Misr Biscuit,Snacks,27.28,486,16,122,3328.16,12,90
+2024-12-15,Signal Toothpaste,Personal Care,35.61,467,41,69,2457.09,12,56
+2024-12-15,Dove Shampoo,Personal Care,155.77,359,17,128,19938.56,12,198
+2024-12-15,Nivea Face Wash,Personal Care,145.96,386,20,68,9925.28,12,62
+2024-12-15,Dettol Hand Sanitizer,Personal Care,66.04,437,20,159,10500.36,12,101
+2024-12-15,Fa Deodorant,Personal Care,70.92,64,12,21,1489.32,12,183
+2024-12-15,Samsung Galaxy A15,Electronics,11911.56,262,44,2,23823.12,12,148
+2024-12-15,Anker Power Bank,Electronics,1170.6,444,35,96,112377.6,12,168
+2024-12-15,JBL Bluetooth Speaker,Electronics,1815.42,469,41,71,128894.82,12,135
+2024-12-15,Lenovo Laptop,Electronics,16280.1,401,37,72,1172167.2,12,111
+2024-12-15,Sony Headphones,Electronics,1033.26,305,13,14,14465.64,12,144
+2024-12-15,Ariel Washing Powder,Home Essentials,183.94,254,39,9,1655.46,12,138
+2024-12-15,Persil Liquid Detergent,Home Essentials,184.73,450,48,199,36761.27,12,54
+2024-12-15,Fine Toilet Paper,Home Essentials,109.29,71,49,133,14535.57,12,127
+2024-12-15,Clorox Disinfectant,Home Essentials,72.1,14,5,173,12473.3,12,63
+2024-12-15,Tefal Kettle,Home Essentials,889.71,61,25,93,82743.03,12,166
+2024-12-22,Halawa Tahini,Food,136.18,105,40,68,9260.24,12,70
+2024-12-22,Pasta Regina,Food,15.39,500,44,88,1354.32,12,103
+2024-12-22,Sunbulah Frozen Molokhia,Food,25.52,227,18,108,2756.16,12,189
+2024-12-22,Wadi Food Olive Oil,Food,170.26,196,30,72,12258.72,12,125
+2024-12-22,Juhayna Milk,Food,25.4,77,41,176,4470.4,12,68
+2024-12-22,Lamar Mango Juice,Beverage,45.35,379,22,61,2766.35,12,152
+2024-12-22,Nescafe Gold,Beverage,176.19,205,17,38,6695.22,12,199
+2024-12-22,Lipton Tea Bags,Beverage,60.47,422,5,46,2781.62,12,117
+2024-12-22,Nestlé Pure Life Water,Beverage,12.49,467,45,133,1661.17,12,146
+2024-12-22,Coca-Cola Can,Beverage,17.21,412,36,77,1325.17,12,74
+2024-12-22,Corona Chocolate,Snacks,42.49,300,8,102,4333.98,12,35
+2024-12-22,Chipsy Potato Chips,Snacks,20.36,40,18,66,1343.76,12,131
+2024-12-22,Bake Rolz,Snacks,31.78,59,33,191,6069.98,12,95
+2024-12-22,Molto Croissant,Snacks,12.6,194,40,143,1801.8,12,75
+2024-12-22,Bisco Misr Biscuit,Snacks,35.32,220,12,90,3178.8,12,183
+2024-12-22,Signal Toothpaste,Personal Care,53.89,111,41,148,7975.72,12,176
+2024-12-22,Dove Shampoo,Personal Care,131.93,99,23,91,12005.63,12,93
+2024-12-22,Nivea Face Wash,Personal Care,207.52,259,33,21,4357.92,12,107
+2024-12-22,Dettol Hand Sanitizer,Personal Care,92.96,247,45,38,3532.48,12,52
+2024-12-22,Fa Deodorant,Personal Care,104.84,485,26,108,11322.72,12,171
+2024-12-22,Samsung Galaxy A15,Electronics,11224.62,217,9,21,235717.02,12,51
+2024-12-22,Anker Power Bank,Electronics,740.54,170,25,168,124410.72,12,84
+2024-12-22,JBL Bluetooth Speaker,Electronics,2210.43,319,46,102,225463.86,12,79
+2024-12-22,Lenovo Laptop,Electronics,21213.84,409,28,192,4073057.28,12,160
+2024-12-22,Sony Headphones,Electronics,1212.56,240,31,43,52140.08,12,57
+2024-12-22,Ariel Washing Powder,Home Essentials,188.34,74,20,170,32017.8,12,74
+2024-12-22,Persil Liquid Detergent,Home Essentials,244.04,368,10,54,13178.16,12,52
+2024-12-22,Fine Toilet Paper,Home Essentials,104.78,58,9,122,12783.16,12,150
+2024-12-22,Clorox Disinfectant,Home Essentials,53.77,404,30,135,7258.95,12,31
+2024-12-22,Tefal Kettle,Home Essentials,751.96,326,14,22,16543.12,12,177
+2024-12-29,Halawa Tahini,Food,143.16,209,24,59,8446.44,12,73
+2024-12-29,Pasta Regina,Food,24.75,236,45,33,816.75,12,43
+2024-12-29,Sunbulah Frozen Molokhia,Food,35.8,97,6,9,322.2,12,179
+2024-12-29,Wadi Food Olive Oil,Food,122.82,478,25,122,14984.04,12,129
+2024-12-29,Juhayna Milk,Food,49.25,286,22,141,6944.25,12,123
+2024-12-29,Lamar Mango Juice,Beverage,28.38,495,49,139,3944.82,12,55
+2024-12-29,Nescafe Gold,Beverage,196.81,243,45,192,37787.52,12,172
+2024-12-29,Lipton Tea Bags,Beverage,111.41,232,38,164,18271.24,12,173
+2024-12-29,Nestlé Pure Life Water,Beverage,13.01,475,27,124,1613.24,12,148
+2024-12-29,Coca-Cola Can,Beverage,12.27,55,33,79,969.33,12,103
+2024-12-29,Corona Chocolate,Snacks,36.49,89,24,3,109.47,12,10
+2024-12-29,Chipsy Potato Chips,Snacks,17.85,398,13,89,1588.65,12,83
+2024-12-29,Bake Rolz,Snacks,24.38,14,49,126,3071.88,12,132
+2024-12-29,Molto Croissant,Snacks,13.0,402,32,75,975.0,12,162
+2024-12-29,Bisco Misr Biscuit,Snacks,31.94,13,40,96,3066.24,12,58
+2024-12-29,Signal Toothpaste,Personal Care,37.35,297,32,102,3809.7,12,73
+2024-12-29,Dove Shampoo,Personal Care,93.06,387,46,100,9306.0,12,106
+2024-12-29,Nivea Face Wash,Personal Care,148.68,50,32,161,23937.48,12,71
+2024-12-29,Dettol Hand Sanitizer,Personal Care,86.16,419,44,178,15336.48,12,185
+2024-12-29,Fa Deodorant,Personal Care,79.03,342,39,69,5453.07,12,115
+2024-12-29,Samsung Galaxy A15,Electronics,10376.0,45,16,35,363160.0,12,84
+2024-12-29,Anker Power Bank,Electronics,577.25,243,44,116,66961.0,12,79
+2024-12-29,JBL Bluetooth Speaker,Electronics,2200.47,261,17,83,182639.01,12,14
+2024-12-29,Lenovo Laptop,Electronics,16065.05,283,6,48,771122.4,12,36
+2024-12-29,Sony Headphones,Electronics,1069.27,74,50,113,120827.51,12,196
+2024-12-29,Ariel Washing Powder,Home Essentials,120.66,56,14,4,482.64,12,136
+2024-12-29,Persil Liquid Detergent,Home Essentials,171.72,225,24,128,21980.16,12,105
+2024-12-29,Fine Toilet Paper,Home Essentials,109.78,415,7,85,9331.3,12,30
+2024-12-29,Clorox Disinfectant,Home Essentials,109.05,497,14,15,1635.75,12,78
+2024-12-29,Tefal Kettle,Home Essentials,1087.83,46,39,121,131627.43,12,56
+2025-01-05,Halawa Tahini,Food,69.22,440,21,98,6783.56,1,13
+2025-01-05,Pasta Regina,Food,12.44,403,50,64,796.16,1,108
+2025-01-05,Sunbulah Frozen Molokhia,Food,43.14,236,20,189,8153.46,1,18
+2025-01-05,Wadi Food Olive Oil,Food,103.9,386,11,134,13922.6,1,180
+2025-01-05,Juhayna Milk,Food,49.46,252,29,175,8655.5,1,89
+2025-01-05,Lamar Mango Juice,Beverage,48.41,91,45,187,9052.67,1,20
+2025-01-05,Nescafe Gold,Beverage,216.81,291,38,32,6937.92,1,74
+2025-01-05,Lipton Tea Bags,Beverage,83.69,162,17,93,7783.17,1,23
+2025-01-05,Nestlé Pure Life Water,Beverage,17.95,121,12,61,1094.95,1,172
+2025-01-05,Coca-Cola Can,Beverage,14.34,17,15,71,1018.14,1,159
+2025-01-05,Corona Chocolate,Snacks,24.79,414,20,3,74.37,1,20
+2025-01-05,Chipsy Potato Chips,Snacks,18.72,363,35,177,3313.44,1,162
+2025-01-05,Bake Rolz,Snacks,18.1,404,10,64,1158.4,1,50
+2025-01-05,Molto Croissant,Snacks,15.0,361,44,87,1305.0,1,170
+2025-01-05,Bisco Misr Biscuit,Snacks,26.8,192,46,40,1072.0,1,189
+2025-01-05,Signal Toothpaste,Personal Care,41.09,64,13,125,5136.25,1,69
+2025-01-05,Dove Shampoo,Personal Care,105.34,295,46,194,20435.96,1,98
+2025-01-05,Nivea Face Wash,Personal Care,224.72,234,17,6,1348.32,1,186
+2025-01-05,Dettol Hand Sanitizer,Personal Care,76.44,380,13,65,4968.6,1,20
+2025-01-05,Fa Deodorant,Personal Care,93.97,234,40,76,7141.72,1,148
+2025-01-05,Samsung Galaxy A15,Electronics,11394.08,107,41,48,546915.84,1,149
+2025-01-05,Anker Power Bank,Electronics,743.37,384,34,71,52779.27,1,163
+2025-01-05,JBL Bluetooth Speaker,Electronics,2414.47,293,15,18,43460.46,1,145
+2025-01-05,Lenovo Laptop,Electronics,16085.18,161,21,139,2235840.02,1,103
+2025-01-05,Sony Headphones,Electronics,1172.45,407,45,130,152418.5,1,107
+2025-01-05,Ariel Washing Powder,Home Essentials,178.69,462,6,159,28411.71,1,103
+2025-01-05,Persil Liquid Detergent,Home Essentials,227.6,132,25,185,42106.0,1,26
+2025-01-05,Fine Toilet Paper,Home Essentials,124.37,285,29,49,6094.13,1,144
+2025-01-05,Clorox Disinfectant,Home Essentials,97.83,402,40,40,3913.2,1,166
+2025-01-05,Tefal Kettle,Home Essentials,841.56,219,46,83,69849.48,1,38
+2025-01-12,Halawa Tahini,Food,59.63,347,9,12,715.56,1,43
+2025-01-12,Pasta Regina,Food,13.57,26,17,28,379.96,1,134
+2025-01-12,Sunbulah Frozen Molokhia,Food,25.75,26,41,165,4248.75,1,109
+2025-01-12,Wadi Food Olive Oil,Food,158.95,279,44,180,28611.0,1,161
+2025-01-12,Juhayna Milk,Food,27.68,197,19,156,4318.08,1,193
+2025-01-12,Lamar Mango Juice,Beverage,26.77,486,18,168,4497.36,1,135
+2025-01-12,Nescafe Gold,Beverage,240.69,436,10,120,28882.8,1,173
+2025-01-12,Lipton Tea Bags,Beverage,54.25,295,31,95,5153.75,1,191
+2025-01-12,Nestlé Pure Life Water,Beverage,5.87,325,22,136,798.32,1,20
+2025-01-12,Coca-Cola Can,Beverage,17.34,437,24,20,346.8,1,65
+2025-01-12,Corona Chocolate,Snacks,58.42,59,11,186,10866.12,1,69
+2025-01-12,Chipsy Potato Chips,Snacks,17.97,107,17,135,2425.95,1,178
+2025-01-12,Bake Rolz,Snacks,19.98,330,16,143,2857.14,1,152
+2025-01-12,Molto Croissant,Snacks,14.15,64,45,148,2094.2,1,101
+2025-01-12,Bisco Misr Biscuit,Snacks,45.23,369,47,110,4975.3,1,36
+2025-01-12,Signal Toothpaste,Personal Care,30.0,102,40,103,3090.0,1,139
+2025-01-12,Dove Shampoo,Personal Care,107.0,90,39,154,16478.0,1,123
+2025-01-12,Nivea Face Wash,Personal Care,241.36,472,25,141,34031.76,1,93
+2025-01-12,Dettol Hand Sanitizer,Personal Care,109.14,221,45,111,12114.54,1,195
+2025-01-12,Fa Deodorant,Personal Care,82.64,133,41,140,11569.6,1,64
+2025-01-12,Samsung Galaxy A15,Electronics,10750.13,291,21,93,999762.09,1,125
+2025-01-12,Anker Power Bank,Electronics,813.25,213,5,186,151264.5,1,18
+2025-01-12,JBL Bluetooth Speaker,Electronics,2482.96,315,6,133,330233.68,1,44
+2025-01-12,Lenovo Laptop,Electronics,21953.88,164,5,77,1690448.76,1,66
+2025-01-12,Sony Headphones,Electronics,1028.89,171,6,198,203720.22,1,186
+2025-01-12,Ariel Washing Powder,Home Essentials,185.79,480,40,131,24338.49,1,152
+2025-01-12,Persil Liquid Detergent,Home Essentials,207.07,302,14,25,5176.75,1,19
+2025-01-12,Fine Toilet Paper,Home Essentials,109.53,89,13,68,7448.04,1,103
+2025-01-12,Clorox Disinfectant,Home Essentials,112.27,137,19,66,7409.82,1,86
+2025-01-12,Tefal Kettle,Home Essentials,745.95,214,41,56,41773.2,1,197
+2025-01-19,Halawa Tahini,Food,57.72,176,35,45,2597.4,1,134
+2025-01-19,Pasta Regina,Food,26.51,363,49,148,3923.48,1,34
+2025-01-19,Sunbulah Frozen Molokhia,Food,37.86,163,7,188,7117.68,1,157
+2025-01-19,Wadi Food Olive Oil,Food,125.79,409,8,198,24906.42,1,95
+2025-01-19,Juhayna Milk,Food,30.44,428,32,107,3257.08,1,40
+2025-01-19,Lamar Mango Juice,Beverage,46.74,126,46,155,7244.7,1,12
+2025-01-19,Nescafe Gold,Beverage,202.41,333,29,14,2833.74,1,88
+2025-01-19,Lipton Tea Bags,Beverage,86.71,173,39,145,12572.95,1,48
+2025-01-19,Nestlé Pure Life Water,Beverage,9.9,367,19,40,396.0,1,22
+2025-01-19,Coca-Cola Can,Beverage,16.74,211,33,193,3230.82,1,162
+2025-01-19,Corona Chocolate,Snacks,43.01,56,19,111,4774.11,1,84
+2025-01-19,Chipsy Potato Chips,Snacks,21.8,85,13,87,1896.6,1,31
+2025-01-19,Bake Rolz,Snacks,24.52,391,8,141,3457.32,1,112
+2025-01-19,Molto Croissant,Snacks,12.63,214,37,112,1414.56,1,188
+2025-01-19,Bisco Misr Biscuit,Snacks,28.91,79,35,144,4163.04,1,60
+2025-01-19,Signal Toothpaste,Personal Care,39.64,343,41,51,2021.64,1,153
+2025-01-19,Dove Shampoo,Personal Care,129.28,386,38,64,8273.92,1,72
+2025-01-19,Nivea Face Wash,Personal Care,129.31,407,32,83,10732.73,1,185
+2025-01-19,Dettol Hand Sanitizer,Personal Care,114.69,55,12,172,19726.68,1,115
+2025-01-19,Fa Deodorant,Personal Care,89.65,188,17,83,7440.95,1,98
+2025-01-19,Samsung Galaxy A15,Electronics,11187.75,22,24,44,492261.0,1,99
+2025-01-19,Anker Power Bank,Electronics,931.35,421,33,160,149016.0,1,47
+2025-01-19,JBL Bluetooth Speaker,Electronics,1940.46,483,19,52,100903.92,1,185
+2025-01-19,Lenovo Laptop,Electronics,17616.75,397,10,29,510885.75,1,199
+2025-01-19,Sony Headphones,Electronics,932.72,495,44,38,35443.36,1,83
+2025-01-19,Ariel Washing Powder,Home Essentials,121.1,365,12,79,9566.9,1,125
+2025-01-19,Persil Liquid Detergent,Home Essentials,197.12,179,18,190,37452.8,1,147
+2025-01-19,Fine Toilet Paper,Home Essentials,90.89,289,38,193,17541.77,1,76
+2025-01-19,Clorox Disinfectant,Home Essentials,88.42,328,14,178,15738.76,1,188
+2025-01-19,Tefal Kettle,Home Essentials,1034.13,202,42,170,175802.1,1,144
+2025-01-26,Halawa Tahini,Food,54.35,97,8,73,3967.55,1,61
+2025-01-26,Pasta Regina,Food,25.78,326,22,14,360.92,1,129
+2025-01-26,Sunbulah Frozen Molokhia,Food,39.64,14,9,100,3964.0,1,179
+2025-01-26,Wadi Food Olive Oil,Food,112.56,446,47,93,10468.08,1,37
+2025-01-26,Juhayna Milk,Food,20.57,454,46,99,2036.43,1,69
+2025-01-26,Lamar Mango Juice,Beverage,49.49,270,50,26,1286.74,1,90
+2025-01-26,Nescafe Gold,Beverage,183.01,315,39,23,4209.23,1,57
+2025-01-26,Lipton Tea Bags,Beverage,63.92,244,40,183,11697.36,1,15
+2025-01-26,Nestlé Pure Life Water,Beverage,5.6,482,38,79,442.4,1,95
+2025-01-26,Coca-Cola Can,Beverage,14.9,391,15,5,74.5,1,98
+2025-01-26,Corona Chocolate,Snacks,47.37,191,45,78,3694.86,1,70
+2025-01-26,Chipsy Potato Chips,Snacks,24.94,266,22,16,399.04,1,170
+2025-01-26,Bake Rolz,Snacks,20.15,208,6,143,2881.45,1,81
+2025-01-26,Molto Croissant,Snacks,12.26,184,30,169,2071.94,1,45
+2025-01-26,Bisco Misr Biscuit,Snacks,27.63,205,38,174,4807.62,1,166
+2025-01-26,Signal Toothpaste,Personal Care,51.18,361,19,107,5476.26,1,71
+2025-01-26,Dove Shampoo,Personal Care,125.83,228,24,155,19503.65,1,94
+2025-01-26,Nivea Face Wash,Personal Care,178.39,77,18,168,29969.52,1,45
+2025-01-26,Dettol Hand Sanitizer,Personal Care,90.67,360,17,36,3264.12,1,89
+2025-01-26,Fa Deodorant,Personal Care,108.2,470,38,35,3787.0,1,120
+2025-01-26,Samsung Galaxy A15,Electronics,11991.37,404,14,168,2014550.16,1,154
+2025-01-26,Anker Power Bank,Electronics,1141.98,172,9,143,163303.14,1,146
+2025-01-26,JBL Bluetooth Speaker,Electronics,2448.6,70,16,82,200785.2,1,47
+2025-01-26,Lenovo Laptop,Electronics,20089.56,401,25,106,2129493.36,1,115
+2025-01-26,Sony Headphones,Electronics,1082.01,391,45,190,205581.9,1,80
+2025-01-26,Ariel Washing Powder,Home Essentials,132.16,106,11,34,4493.44,1,57
+2025-01-26,Persil Liquid Detergent,Home Essentials,152.62,323,44,69,10530.78,1,165
+2025-01-26,Fine Toilet Paper,Home Essentials,117.53,128,43,60,7051.8,1,69
+2025-01-26,Clorox Disinfectant,Home Essentials,98.12,193,10,177,17367.24,1,132
+2025-01-26,Tefal Kettle,Home Essentials,767.04,443,43,121,92811.84,1,192
+2025-02-02,Halawa Tahini,Food,114.96,104,29,126,14484.96,2,131
+2025-02-02,Pasta Regina,Food,12.75,108,19,9,114.75,2,114
+2025-02-02,Sunbulah Frozen Molokhia,Food,42.94,17,22,106,4551.64,2,66
+2025-02-02,Wadi Food Olive Oil,Food,169.08,113,18,17,2874.36,2,55
+2025-02-02,Juhayna Milk,Food,47.81,234,44,126,6024.06,2,186
+2025-02-02,Lamar Mango Juice,Beverage,33.12,244,20,110,3643.2,2,113
+2025-02-02,Nescafe Gold,Beverage,220.91,321,29,185,40868.35,2,90
+2025-02-02,Lipton Tea Bags,Beverage,77.59,490,41,153,11871.27,2,147
+2025-02-02,Nestlé Pure Life Water,Beverage,12.88,458,50,10,128.8,2,143
+2025-02-02,Coca-Cola Can,Beverage,11.09,243,7,63,698.67,2,142
+2025-02-02,Corona Chocolate,Snacks,41.51,386,7,143,5935.93,2,109
+2025-02-02,Chipsy Potato Chips,Snacks,17.74,332,8,49,869.26,2,84
+2025-02-02,Bake Rolz,Snacks,23.79,462,24,199,4734.21,2,83
+2025-02-02,Molto Croissant,Snacks,14.61,226,23,157,2293.77,2,23
+2025-02-02,Bisco Misr Biscuit,Snacks,45.7,472,14,119,5438.3,2,175
+2025-02-02,Signal Toothpaste,Personal Care,38.55,379,37,29,1117.95,2,56
+2025-02-02,Dove Shampoo,Personal Care,142.3,490,49,140,19922.0,2,44
+2025-02-02,Nivea Face Wash,Personal Care,171.1,175,33,7,1197.7,2,55
+2025-02-02,Dettol Hand Sanitizer,Personal Care,81.76,469,50,52,4251.52,2,126
+2025-02-02,Fa Deodorant,Personal Care,66.31,175,49,167,11073.77,2,192
+2025-02-02,Samsung Galaxy A15,Electronics,11592.97,377,12,24,278231.28,2,39
+2025-02-02,Anker Power Bank,Electronics,994.36,334,28,22,21875.92,2,144
+2025-02-02,JBL Bluetooth Speaker,Electronics,2207.28,382,37,157,346542.96,2,50
+2025-02-02,Lenovo Laptop,Electronics,17650.75,204,7,197,3477197.75,2,53
+2025-02-02,Sony Headphones,Electronics,1447.35,299,47,39,56446.65,2,51
+2025-02-02,Ariel Washing Powder,Home Essentials,189.51,101,50,14,2653.14,2,117
+2025-02-02,Persil Liquid Detergent,Home Essentials,180.81,383,33,74,13379.94,2,170
+2025-02-02,Fine Toilet Paper,Home Essentials,88.55,470,13,52,4604.6,2,10
+2025-02-02,Clorox Disinfectant,Home Essentials,93.58,139,5,118,11042.44,2,137
+2025-02-02,Tefal Kettle,Home Essentials,1127.71,288,5,156,175922.76,2,136
+2025-02-09,Halawa Tahini,Food,73.79,311,47,122,9002.38,2,126
+2025-02-09,Pasta Regina,Food,18.2,50,43,154,2802.8,2,11
+2025-02-09,Sunbulah Frozen Molokhia,Food,27.34,290,22,159,4347.06,2,170
+2025-02-09,Wadi Food Olive Oil,Food,146.91,432,18,13,1909.83,2,57
+2025-02-09,Juhayna Milk,Food,24.45,344,27,10,244.5,2,47
+2025-02-09,Lamar Mango Juice,Beverage,46.35,351,41,155,7184.25,2,86
+2025-02-09,Nescafe Gold,Beverage,163.04,54,8,28,4565.12,2,116
+2025-02-09,Lipton Tea Bags,Beverage,119.56,92,48,73,8727.88,2,166
+2025-02-09,Nestlé Pure Life Water,Beverage,14.91,368,43,147,2191.77,2,153
+2025-02-09,Coca-Cola Can,Beverage,11.77,243,42,93,1094.61,2,19
+2025-02-09,Corona Chocolate,Snacks,23.73,163,25,95,2254.35,2,107
+2025-02-09,Chipsy Potato Chips,Snacks,22.3,398,32,141,3144.3,2,26
+2025-02-09,Bake Rolz,Snacks,20.86,78,12,178,3713.08,2,80
+2025-02-09,Molto Croissant,Snacks,13.29,221,38,54,717.66,2,188
+2025-02-09,Bisco Misr Biscuit,Snacks,31.27,39,11,147,4596.69,2,196
+2025-02-09,Signal Toothpaste,Personal Care,54.38,280,10,124,6743.12,2,195
+2025-02-09,Dove Shampoo,Personal Care,135.09,488,50,74,9996.66,2,119
+2025-02-09,Nivea Face Wash,Personal Care,199.15,172,21,135,26885.25,2,157
+2025-02-09,Dettol Hand Sanitizer,Personal Care,119.65,191,13,158,18904.7,2,154
+2025-02-09,Fa Deodorant,Personal Care,94.75,383,45,128,12128.0,2,136
+2025-02-09,Samsung Galaxy A15,Electronics,11615.96,462,44,60,696957.6,2,191
+2025-02-09,Anker Power Bank,Electronics,703.34,109,5,31,21803.54,2,16
+2025-02-09,JBL Bluetooth Speaker,Electronics,1964.89,417,12,189,371364.21,2,63
+2025-02-09,Lenovo Laptop,Electronics,20596.95,222,31,12,247163.4,2,95
+2025-02-09,Sony Headphones,Electronics,1109.79,422,45,55,61038.45,2,12
+2025-02-09,Ariel Washing Powder,Home Essentials,171.25,363,23,66,11302.5,2,27
+2025-02-09,Persil Liquid Detergent,Home Essentials,180.78,269,40,83,15004.74,2,11
+2025-02-09,Fine Toilet Paper,Home Essentials,83.54,180,26,102,8521.08,2,195
+2025-02-09,Clorox Disinfectant,Home Essentials,89.82,24,16,50,4491.0,2,94
+2025-02-09,Tefal Kettle,Home Essentials,1116.91,482,48,123,137379.93,2,131
+2025-02-16,Halawa Tahini,Food,129.73,340,13,124,16086.52,2,49
+2025-02-16,Pasta Regina,Food,22.54,466,39,86,1938.44,2,128
+2025-02-16,Sunbulah Frozen Molokhia,Food,43.52,221,8,134,5831.68,2,86
+2025-02-16,Wadi Food Olive Oil,Food,147.79,357,25,143,21133.97,2,147
+2025-02-16,Juhayna Milk,Food,20.56,305,48,85,1747.6,2,100
+2025-02-16,Lamar Mango Juice,Beverage,26.66,86,22,8,213.28,2,96
+2025-02-16,Nescafe Gold,Beverage,247.87,330,39,43,10658.41,2,156
+2025-02-16,Lipton Tea Bags,Beverage,92.4,105,43,30,2772.0,2,88
+2025-02-16,Nestlé Pure Life Water,Beverage,15.58,171,50,9,140.22,2,79
+2025-02-16,Coca-Cola Can,Beverage,14.14,264,20,96,1357.44,2,125
+2025-02-16,Corona Chocolate,Snacks,53.18,164,18,135,7179.3,2,87
+2025-02-16,Chipsy Potato Chips,Snacks,12.63,201,7,200,2526.0,2,61
+2025-02-16,Bake Rolz,Snacks,33.27,237,37,7,232.89,2,133
+2025-02-16,Molto Croissant,Snacks,19.05,88,17,88,1676.4,2,133
+2025-02-16,Bisco Misr Biscuit,Snacks,46.97,278,24,199,9347.03,2,93
+2025-02-16,Signal Toothpaste,Personal Care,29.3,456,11,133,3896.9,2,183
+2025-02-16,Dove Shampoo,Personal Care,159.42,115,7,118,18811.56,2,109
+2025-02-16,Nivea Face Wash,Personal Care,212.78,277,12,2,425.56,2,89
+2025-02-16,Dettol Hand Sanitizer,Personal Care,115.26,361,43,23,2650.98,2,95
+2025-02-16,Fa Deodorant,Personal Care,92.68,33,11,134,12419.12,2,178
+2025-02-16,Samsung Galaxy A15,Electronics,11491.11,21,41,195,2240766.45,2,89
+2025-02-16,Anker Power Bank,Electronics,947.2,117,25,52,49254.4,2,59
+2025-02-16,JBL Bluetooth Speaker,Electronics,1786.57,282,25,198,353740.86,2,122
+2025-02-16,Lenovo Laptop,Electronics,19697.87,149,14,41,807612.67,2,80
+2025-02-16,Sony Headphones,Electronics,968.68,500,44,144,139489.92,2,141
+2025-02-16,Ariel Washing Powder,Home Essentials,128.19,287,27,141,18074.79,2,91
+2025-02-16,Persil Liquid Detergent,Home Essentials,177.11,492,50,73,12929.03,2,156
+2025-02-16,Fine Toilet Paper,Home Essentials,93.36,46,24,157,14657.52,2,96
+2025-02-16,Clorox Disinfectant,Home Essentials,87.84,35,13,8,702.72,2,130
+2025-02-16,Tefal Kettle,Home Essentials,1151.65,35,11,99,114013.35,2,23
+2025-02-23,Halawa Tahini,Food,58.61,210,16,181,10608.41,2,162
+2025-02-23,Pasta Regina,Food,27.83,332,49,180,5009.4,2,124
+2025-02-23,Sunbulah Frozen Molokhia,Food,38.49,169,26,51,1962.99,2,192
+2025-02-23,Wadi Food Olive Oil,Food,171.01,424,39,21,3591.21,2,129
+2025-02-23,Juhayna Milk,Food,37.03,57,49,120,4443.6,2,34
+2025-02-23,Lamar Mango Juice,Beverage,36.39,360,46,182,6622.98,2,129
+2025-02-23,Nescafe Gold,Beverage,181.17,495,19,37,6703.29,2,167
+2025-02-23,Lipton Tea Bags,Beverage,68.06,196,30,47,3198.82,2,189
+2025-02-23,Nestlé Pure Life Water,Beverage,18.76,179,25,117,2194.92,2,134
+2025-02-23,Coca-Cola Can,Beverage,10.3,253,12,90,927.0,2,132
+2025-02-23,Corona Chocolate,Snacks,38.45,97,23,197,7574.65,2,99
+2025-02-23,Chipsy Potato Chips,Snacks,19.07,75,37,27,514.89,2,113
+2025-02-23,Bake Rolz,Snacks,31.35,417,11,84,2633.4,2,152
+2025-02-23,Molto Croissant,Snacks,16.49,415,24,137,2259.13,2,128
+2025-02-23,Bisco Misr Biscuit,Snacks,37.02,221,20,159,5886.18,2,72
+2025-02-23,Signal Toothpaste,Personal Care,41.44,256,29,17,704.48,2,97
+2025-02-23,Dove Shampoo,Personal Care,96.66,365,42,111,10729.26,2,121
+2025-02-23,Nivea Face Wash,Personal Care,193.74,185,39,178,34485.72,2,70
+2025-02-23,Dettol Hand Sanitizer,Personal Care,62.12,352,9,190,11802.8,2,192
+2025-02-23,Fa Deodorant,Personal Care,100.19,259,12,152,15228.88,2,162
+2025-02-23,Samsung Galaxy A15,Electronics,10925.82,294,11,114,1245543.48,2,55
+2025-02-23,Anker Power Bank,Electronics,715.63,217,9,154,110207.02,2,37
+2025-02-23,JBL Bluetooth Speaker,Electronics,2185.51,315,29,84,183582.84,2,136
+2025-02-23,Lenovo Laptop,Electronics,19514.92,41,10,56,1092835.52,2,45
+2025-02-23,Sony Headphones,Electronics,1432.36,472,45,1,1432.36,2,47
+2025-02-23,Ariel Washing Powder,Home Essentials,172.87,241,39,75,12965.25,2,109
+2025-02-23,Persil Liquid Detergent,Home Essentials,211.56,238,17,53,11212.68,2,184
+2025-02-23,Fine Toilet Paper,Home Essentials,140.81,163,41,174,24500.94,2,87
+2025-02-23,Clorox Disinfectant,Home Essentials,114.3,489,32,184,21031.2,2,98
+2025-02-23,Tefal Kettle,Home Essentials,1195.14,308,5,157,187636.98,2,140
+2025-03-02,Halawa Tahini,Food,90.42,75,23,16,1446.72,3,104
+2025-03-02,Pasta Regina,Food,28.02,37,5,181,5071.62,3,153
+2025-03-02,Sunbulah Frozen Molokhia,Food,44.62,193,12,73,3257.26,3,17
+2025-03-02,Wadi Food Olive Oil,Food,108.23,369,42,101,10931.23,3,170
+2025-03-02,Juhayna Milk,Food,29.54,205,30,98,2894.92,3,121
+2025-03-02,Lamar Mango Juice,Beverage,38.63,349,16,122,4712.86,3,45
+2025-03-02,Nescafe Gold,Beverage,144.47,206,28,107,15458.29,3,49
+2025-03-02,Lipton Tea Bags,Beverage,70.19,456,47,33,2316.27,3,44
+2025-03-02,Nestlé Pure Life Water,Beverage,5.17,341,6,37,191.29,3,194
+2025-03-02,Coca-Cola Can,Beverage,18.85,346,32,35,659.75,3,31
+2025-03-02,Corona Chocolate,Snacks,25.49,422,31,117,2982.33,3,188
+2025-03-02,Chipsy Potato Chips,Snacks,19.07,227,44,47,896.29,3,126
+2025-03-02,Bake Rolz,Snacks,25.19,292,33,99,2493.81,3,100
+2025-03-02,Molto Croissant,Snacks,12.26,227,43,2,24.52,3,157
+2025-03-02,Bisco Misr Biscuit,Snacks,39.94,384,20,183,7309.02,3,138
+2025-03-02,Signal Toothpaste,Personal Care,33.08,484,39,148,4895.84,3,103
+2025-03-02,Dove Shampoo,Personal Care,82.68,29,41,124,10252.32,3,190
+2025-03-02,Nivea Face Wash,Personal Care,167.92,307,35,177,29721.84,3,30
+2025-03-02,Dettol Hand Sanitizer,Personal Care,59.95,384,38,193,11570.35,3,81
+2025-03-02,Fa Deodorant,Personal Care,92.55,50,38,157,14530.35,3,32
+2025-03-02,Samsung Galaxy A15,Electronics,10490.46,332,47,172,1804359.12,3,29
+2025-03-02,Anker Power Bank,Electronics,978.85,286,42,80,78308.0,3,166
+2025-03-02,JBL Bluetooth Speaker,Electronics,1552.77,185,39,200,310554.0,3,12
+2025-03-02,Lenovo Laptop,Electronics,18282.08,272,35,147,2687465.76,3,197
+2025-03-02,Sony Headphones,Electronics,1098.91,190,23,75,82418.25,3,52
+2025-03-02,Ariel Washing Powder,Home Essentials,122.83,482,43,192,23583.36,3,87
+2025-03-02,Persil Liquid Detergent,Home Essentials,222.7,298,21,16,3563.2,3,171
+2025-03-02,Fine Toilet Paper,Home Essentials,110.49,96,41,14,1546.86,3,178
+2025-03-02,Clorox Disinfectant,Home Essentials,119.33,424,44,7,835.31,3,83
+2025-03-02,Tefal Kettle,Home Essentials,942.38,74,37,20,18847.6,3,81
+2025-03-09,Halawa Tahini,Food,75.21,325,22,71,5339.91,3,75
+2025-03-09,Pasta Regina,Food,10.28,67,43,45,462.6,3,161
+2025-03-09,Sunbulah Frozen Molokhia,Food,42.17,347,33,95,4006.15,3,54
+2025-03-09,Wadi Food Olive Oil,Food,111.35,368,20,125,13918.75,3,56
+2025-03-09,Juhayna Milk,Food,43.98,451,7,88,3870.24,3,31
+2025-03-09,Lamar Mango Juice,Beverage,49.18,314,14,127,6245.86,3,115
+2025-03-09,Nescafe Gold,Beverage,220.15,131,47,113,24876.95,3,195
+2025-03-09,Lipton Tea Bags,Beverage,94.63,117,41,188,17790.44,3,98
+2025-03-09,Nestlé Pure Life Water,Beverage,5.81,145,12,14,81.34,3,52
+2025-03-09,Coca-Cola Can,Beverage,14.64,253,24,122,1786.08,3,146
+2025-03-09,Corona Chocolate,Snacks,29.35,359,50,100,2935.0,3,131
+2025-03-09,Chipsy Potato Chips,Snacks,13.94,281,32,4,55.76,3,83
+2025-03-09,Bake Rolz,Snacks,33.54,239,29,174,5835.96,3,90
+2025-03-09,Molto Croissant,Snacks,19.62,359,7,25,490.5,3,146
+2025-03-09,Bisco Misr Biscuit,Snacks,44.12,499,32,157,6926.84,3,176
+2025-03-09,Signal Toothpaste,Personal Care,50.75,181,22,69,3501.75,3,35
+2025-03-09,Dove Shampoo,Personal Care,100.43,309,30,119,11951.17,3,182
+2025-03-09,Nivea Face Wash,Personal Care,217.38,385,48,151,32824.38,3,59
+2025-03-09,Dettol Hand Sanitizer,Personal Care,86.4,356,49,47,4060.8,3,90
+2025-03-09,Fa Deodorant,Personal Care,98.33,354,5,18,1769.94,3,13
+2025-03-09,Samsung Galaxy A15,Electronics,10822.5,278,11,176,1904760.0,3,124
+2025-03-09,Anker Power Bank,Electronics,746.06,381,23,65,48493.9,3,59
+2025-03-09,JBL Bluetooth Speaker,Electronics,1534.04,327,10,15,23010.6,3,162
+2025-03-09,Lenovo Laptop,Electronics,19596.24,437,18,154,3017820.96,3,173
+2025-03-09,Sony Headphones,Electronics,973.07,500,12,23,22380.61,3,164
+2025-03-09,Ariel Washing Powder,Home Essentials,130.39,346,46,145,18906.55,3,57
+2025-03-09,Persil Liquid Detergent,Home Essentials,239.6,366,16,65,15574.0,3,85
+2025-03-09,Fine Toilet Paper,Home Essentials,110.02,489,9,164,18043.28,3,126
+2025-03-09,Clorox Disinfectant,Home Essentials,114.59,151,32,178,20397.02,3,180
+2025-03-09,Tefal Kettle,Home Essentials,1084.94,175,21,42,45567.48,3,28
